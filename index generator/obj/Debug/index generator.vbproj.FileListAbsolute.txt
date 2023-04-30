@@ -1,0 +1,11 @@
+C:\Users\MONSTERMC\source\repos\index generator\index generator\bin\Debug\index generator.exe.config
+C:\Users\MONSTERMC\source\repos\index generator\index generator\bin\Debug\index generator.exe
+C:\Users\MONSTERMC\source\repos\index generator\index generator\bin\Debug\index generator.pdb
+C:\Users\MONSTERMC\source\repos\index generator\index generator\bin\Debug\index generator.xml
+C:\Users\MONSTERMC\source\repos\index generator\index generator\obj\Debug\index_generator.Resources.resources
+C:\Users\MONSTERMC\source\repos\index generator\index generator\obj\Debug\index generator.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\index generator\index generator\obj\Debug\index generator.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\index generator\index generator\obj\Debug\index generator.exe
+C:\Users\MONSTERMC\source\repos\index generator\index generator\obj\Debug\index generator.xml
+C:\Users\MONSTERMC\source\repos\index generator\index generator\obj\Debug\index generator.pdb
+C:\Users\MONSTERMC\source\repos\index generator\index generator\obj\Debug\index_generator.Form1.resources
